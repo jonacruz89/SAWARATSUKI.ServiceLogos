@@ -1,4 +1,4 @@
-[English README](https://github.com/SAWARATSUKI/ServiceLogos/blob/master/README.md)
+[English README](README.md) | [日本語 README](README-ja.md)
 
 # ServiceLogos
 Hello, good morning, good evening.
