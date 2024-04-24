@@ -1,6 +1,6 @@
 [English README](README.md) | [日本語 README](README-ja.md) | [简体中文 README](README-zhHans.md) | [繁體中文 README](README-zhHant.md)
 # ServiceLogos
-早安，或是晚安
+早安，又或是晚安
 
 這裡是用來上傳由 Sawaratsuki 所製作的各式 logo 的 Repository。
 
