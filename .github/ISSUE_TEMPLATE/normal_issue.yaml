@@ -1,0 +1,23 @@
+name: Issue
+description: Submit a normal issue.
+title: "[Issue] "
+labels: ["question"]
+assignees:
+  - SAWARATSUKI
+body:
+  - type: checkboxes
+    id: duplicate-check
+    attributes:
+      label: Check for duplicates
+      description: Check that the Issue has not been duplicated.
+      options:
+        - label: Checked
+          required: true
+
+  - type: textarea
+    id: comment
+    attributes:
+      label: Comment
+      description: Please attach images to this area.
+    validations:
+      required: true
