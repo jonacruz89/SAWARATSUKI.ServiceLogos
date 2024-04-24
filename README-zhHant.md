@@ -33,7 +33,7 @@
 > [!IMPORTANT]  
 開立 issue 時請帶上 `request` 的標籤。
 
-# 給各個被製作的服務商或官方：
+# 給各個被製作的服務商或官方
 若想要刪除 logo 的話，請[發私訊聯繫 Sawaratsuki](https://x.com/sawaratsuki1004)，我會馬上刪除的。
 
 需要以官方身份販賣的話也請[發私訊聯繫 Sawaratsuki](https://x.com/sawaratsuki1004)。
