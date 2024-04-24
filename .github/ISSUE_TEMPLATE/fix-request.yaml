@@ -1,7 +1,7 @@
 name: Modification
 description: Request a logo modification.
 title: "[Fix] "
-labels: ["enhancement"]
+labels: ["fix"]
 assignees:
   - SAWARATSUKI
 body:
@@ -34,7 +34,7 @@ body:
     attributes:
       label: Description of modifications
       description: Please describe the modification in detail
-      placeholder: ex. Corrected Japanese spelling of Github to "ギットハブ".
+      placeholder: ex. Corrected Japanese spelling of Github from "ぎっとはぶ" to "ギットハブ.
     validations:
       required: true
 

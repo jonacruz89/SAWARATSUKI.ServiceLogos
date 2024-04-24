@@ -1,7 +1,7 @@
 name: 修正依頼
 description: ロゴの修正依頼
 title: "[Fix] "
-labels: ["enhancement"]
+labels: ["fix"]
 assignees:
   - SAWARATSUKI
 body:
@@ -34,7 +34,7 @@ body:
     attributes:
       label: 修正内容
       description: 修正内容を具体的に記載してください
-      placeholder: 例) Githubの日本語表記を「ギットハブ」に修正
+      placeholder: 例) Githubの日本語表記を「ぎっとはぶ」から「ギットハブ」に修正
     validations:
       required: true
       
