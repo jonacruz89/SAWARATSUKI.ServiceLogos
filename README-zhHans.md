@@ -1,4 +1,4 @@
-[English README](README.md) | [日本語 README](README-ja.md) | [简体中文 README](README-zhHans.md)
+[English README](README.md) | [日本語 README](README-ja.md) | [简体中文 README](README-zhHans.md) | [繁體中文 README](README-zhHant.md)
 # ServiceLogos
 早上好，又或是晚上好
 
