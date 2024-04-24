@@ -96,4 +96,3 @@ If you would like to sell your product officially, please send a [Direct message
 | Vue            | <img src="Vue/Vue.png" width="100"/> |
 | Wallhack       | <img src="Wallhack/WALLHACK.png" width="100"/> |
 | X              | <img src="X/X.png" width="100"/> |
-
