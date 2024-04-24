@@ -31,7 +31,7 @@ Depending on individual schedules, we may not be able to respond immediately. It
 > [!IMPORTANT]  
 When posting to issues, be sure to include a request tag.
 
-#For officials of each service
+# For officials of each service
 
 Please contact [Direct message from SAWATSUKI](https://x.com/sawaratsuki1004) to request logo removal
 We will remove it immediately.
