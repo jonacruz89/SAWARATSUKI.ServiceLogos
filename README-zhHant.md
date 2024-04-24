@@ -1,4 +1,4 @@
-[English README](README.md) | [日本語 README](README-ja.md) | [简体中文 README](README-zhHans.md)
+[English README](README.md) | [日本語 README](README-ja.md) | [简体中文 README](README-zhHans.md) | [繁體中文 README](README-zhHant.md)
 # ServiceLogos
 早安，或是晚安
 
@@ -32,12 +32,12 @@
 
 因個人時間安排的原因，可以會花費數天時間，也不一定全部都會製作。
 > [!IMPORTANT]  
-開立 issues 時請帶上`request`的標籤
+開立 issue 時請帶上 `request` 的標籤。
 
 # 給各個被製作的服務商及官方：
 若想要刪除 logo 的話，請[發私訊聯繫 Sawaratsuki](https://x.com/sawaratsuki1004)，我會馬上刪除的。
 
-需要以官方身份販賣的話也請[發私訊聯繫 Sawaratsuki](https://x.com/sawaratsuki1004)
+需要以官方身份販賣的話也請[發私訊聯繫 Sawaratsuki](https://x.com/sawaratsuki1004)。
 
 # 設計時所使用的工具
 - Photoshop / Illustrator
