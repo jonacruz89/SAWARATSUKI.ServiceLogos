@@ -33,9 +33,9 @@ When posting to issues, be sure to include a request tag.
 
 # For officials of each service
 
-Please contact [Direct message from SAWATSUKI](https://x.com/sawaratsuki1004) to request logo removal
+Please send a [Direct message to SAWATSUKI](https://x.com/sawaratsuki1004) to request a logo removal.
 We will remove it immediately.
-If you would like to sell your product officially, please contact [Direct message from SAWATSUKI](https://x.com/sawaratsuki1004) in the same way!
+If you would like to sell your product officially, please send a [Direct message to SAWATSUKI](https://x.com/sawaratsuki1004) in the same way!
 
 # Tools used for designing
 - Photoshop / Illustrator
