@@ -1,4 +1,4 @@
-[English README](README.md) | [日本語 README](README-ja.md)
+[English README](README.md) | [日本語 README](README-ja.md) | [中文 README](README-zh.md)
 
 # ServiceLogos
 Hello, good morning, good evening.
