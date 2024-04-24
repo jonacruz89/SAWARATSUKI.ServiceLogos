@@ -42,3 +42,59 @@ issuesに投稿する場合必ずリクエストタグを付けて投稿して�
 - Font [ユールカフォント]
 - さわらつきのモチベーションと気持ち
 - 皆様の感想ポスト
+
+
+## 日本語訳：
+
+| 名前 | 画像 |
+|----------------|--------|
+| Angular        | <img src="Angular/Angular.png" width="100"/> <img src="Angular/Angular_Old.png" width="100"/> |
+| ArchLinux      | <img src="ArchLinux/ArchLinux.png" width="100"/> |
+| C#             | <img src="C%23/C%23%20Purple.png" width="100"/> <img src="C%23/C%23.png" width="100"/> |
+| C++            | <img src="C%2B%2B/C%2B%2B.png" width="100"/> |
+| C,C#,C++       | <img src="C,C%23,C%2B%2B/All.png" width="100"/> |
+| C              | <img src="C/C.png" width="100"/> |
+| Clion          | <img src="Clion/Clion.png" width="100"/> |
+| Cloudflare     | <img src="Cloudflare/Cloudflare.png" width="100"/> |
+| Cobol          | <img src="Cobol/Cobol.png" width="100"/> |
+| Crowdstrike    | <img src="Crowdstrike/CroudStrike.png" width="100"/> |
+| Figma          | <img src="Figma/Figma.png" width="100"/> |
+| Flutter        | <img src="Flutter/FlutterTransparent.png" width="100"/> |
+| Github         | <img src="Github/Github.png" width="100"/> |
+| Gitlab         | <img src="Gitlab/Gitlab.png" width="100"/> |
+| Gnuemacs       | <img src="Gnuemacs/GNUEmacs.png" width="100"/> |
+| Go             | <img src="Go/Golang.png" width="100"/> |
+| Haskell        | <img src="Haskell/Haskell%20$.png" width="100"/> <img src="Haskell/Haskell.png" width="100"/> |
+| Hono           | <img src="Hono/Hono.png" width="100"/> |
+| Html           | <img src="Html/HTML.png" width="100"/> |
+| Htmx           | <img src="Htmx/htmx.png" width="100"/> |
+| IamSeries      | <img src="IamSeries/IamProgrammer!.png" width="100"/> <img src="IamSeries/IamProgrammerEnglish.png" width="100"/> |
+| Java           | <img src="Java/Java.png" width="100"/> |
+| Juniper        | <img src="Juniper/Juniper.png" width="100"/> |
+| Kotlin         | <img src="Kotlin/Kotlin.png" width="100"/> |
+| Laravel        | <img src="Laravel/Laravel.png" width="100"/> |
+| Mui            | <img src="Mui/Mui.png" width="100"/> |
+| Next.js        | <img src="Next.js/Next.js.png" width="100"/> |
+| Node.js        | <img src="Node.js/Node.js.png" width="100"/> |
+| Photoshop      | <img src="Photoshop/Photoshop.png" width="100"/> |
+| Python         | <img src="Python/Python.png" width="100"/> |
+| Qwik.js        | <img src="Qwik.js/Qwik.png" width="100"/> |
+| RaspberryPi    | <img src="RaspberryPi/Raspberry%20Pi.png" width="100"/> |
+| React          | <img src="React/React.png" width="100"/> |
+| RhineLab       | <img src="RhineLab/RhineLab.png" width="100"/> |
+| Rider          | <img src="Rider/Rider.png" width="100"/> |
+| Rstudio        | <img src="Rstudio/RStudio.png" width="100"/> |
+| Ruby           | <img src="Ruby/Ruby.png" width="100"/> |
+| Rust           | <img src="Rust/Rust.png" width="100"/> |
+| Streamloots    | <img src="Streamloots/Streamloots.png" width="100"/> |
+| Swift          | <img src="Swift/Swift.png" width="100"/> |
+| Tailwindcss    | <img src="Tailwindcss/Tailwindcss6.png" width="100"/> |
+| Teamspeak      | <img src="Teamspeak/TeamSpeak.png" width="100"/> |
+| UnityBlender   | <img src="UnityBlender/UnityBlenderT.png" width="100"/> |
+| Vim            | <img src="Vim/VIM.png" width="100"/> |
+| Vite           | <img src="Vite/Vite.png" width="100"/> |
+| Voicemod       | <img src="Voicemod/Voicemod.png" width="100"/> |
+| Vrchat         | <img src="Vrchat/VRChat.png" width="100"/> |
+| Vue            | <img src="Vue/Vue.png" width="100"/> |
+| Wallhack       | <img src="Wallhack/WALLHACK.png" width="100"/> |
+| X              | <img src="X/X.png" width="100"/> |
