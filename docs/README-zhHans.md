@@ -62,9 +62,9 @@
 | Cobol          | <img src="/Cobol/Cobol.png" width="100"/> |
 | Crowdstrike    | <img src="/Crowdstrike/CroudStrike.png" width="100"/> |
 | Figma          | <img src="/Figma/Figma.png" width="100"/> |
-| Flutter        | <img src="/Flutter/FlutterTransparent.png" width="100"/> |
 | FORTRAN        | <img src="/FORTRAN/FORTRAN.png" width="100"/> |
 | Flipper Zero   | <img src="/Fripper Zero/Flipper Zero.png" width="100"/> |
+| Flutter        | <img src="/Flutter/FlutterTransparent.png" width="100"/> |
 | GitHub         | <img src="/GitHub/GitHub.png" width="100"/> |
 | GitLab         | <img src="/GitLab/GitLab.png" width="100"/> |
 | Gnuemacs       | <img src="/Gnuemacs/GNUEmacs.png" width="100"/> |
