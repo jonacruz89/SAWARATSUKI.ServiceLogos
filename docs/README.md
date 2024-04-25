@@ -20,12 +20,12 @@ This is a repository created by Sawaratsuki to upload logos of various services.
 ![CC BY-NC-SA 4.0](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png)
 1. The creator of these logos is Sawaratsuki. The copyright has not been completely waived.
 2. These logos are provided under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en).
->  It is recommended to give appropriate credit. It is a great motivator, so please do so.　　
->  You can modify or remix it, but you must give the new work the same license (CC BY-NC-SA 4.0) as the original work.　　
->  Commercial use (such as selling products using the logo) is prohibited. However, it can be sold if it falls under the following conditions:
->  1. If the official of each service wants to sell for profit
->  2. If permission is granted by Sawaratsuki  
->     (If you find any violations, please contact [@Sawaratsuki](https://x.com/sawaratsuki1004) immediately!)
+>  - It is recommended to give appropriate credit. It is a great motivator, so please do so.
+>  - You can modify or remix it, but you must give the new work the same license (CC BY-NC-SA 4.0) as the original work.
+>  - Commercial use (such as selling products using the logo) is prohibited. However, it can be sold if it falls under the following conditions:
+>    1. If the official of each service wants to sell for profit
+>    2. If permission is granted by Sawaratsuki  
+>       (If you find any violations, please contact [@Sawaratsuki](https://x.com/sawaratsuki1004) immediately!)
 3. It's okay to use stickers, seals, etc., for personal use without permission!
 
 # Want a logo that's not here!
