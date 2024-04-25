@@ -30,15 +30,15 @@
 # 如果这里没有您想要的logo！
 请提交issues。一旦确认需求，我们将为您设计该logo。
 
-由于人员日程安排等因素，我们可能无法立即回复您的需求。制作标志可能需要几天时间。
+由于人员日程安排等因素，我们可能无法立即回复您的需求。制作logo可能需要几天时间。
 > [!IMPORTANT]  
-提交issues的时候请带上request的标签
+提交issues时请带上request的标签。
 
 # 对于各个服务商官方：
 
-请[通过私信联系Sawaratsuki](https://x.com/sawaratsuki1004)申请移除徽标。 我们将立即为您移除。
+请通过[私信联系Sawaratsuki](https://x.com/sawaratsuki1004)申请移除logo。 我们将立即为您移除。
 
-如果你想要售卖带有这些logo的产品的话也请[通过私信联系Sawaratsuki](https://x.com/sawaratsuki1004)。
+如果你想要售卖带有这些logo的产品的话也请[私信联系Sawaratsuki](https://x.com/sawaratsuki1004)。
 
 # 设计工具
 - Photoshop / Illustrator
