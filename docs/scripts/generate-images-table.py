@@ -75,7 +75,7 @@ def generate_markdown(folders: FolderDict, locale: str | None = None) -> str:
         "| --- | --- |",
         *(
             f"| {folder} | {get_image_tags(images)} |"
-            for folder, images in folders.items()
+            for folder, images in sorted(folders.items(), key=lambda x: x[0].lower())
         ),
     ]
     return "\n".join(lines)
