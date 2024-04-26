@@ -105,3 +105,7 @@ If you would like to sell your product officially, please send a [Direct message
 | [Vue](/Vue/)                  | <img src="/Vue/Vue.png" width="100"/> |
 | [Wallhack](/Wallhack/)        | <img src="/Wallhack/WALLHACK.png" width="100"/> |
 | [X](/X/)                      | <img src="/X/X.png" width="100"/> |
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=SAWARATSUKI/ServiceLogos&type=Date)](https://star-history.com/#SAWARATSUKI/ServiceLogos&Date)

@@ -43,3 +43,7 @@
 - 字體：[ユールカフォント]
 - Sawaratsuki 的創作熱情
 - 各位的回饋感想推文（非常感謝！）
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=SAWARATSUKI/ServiceLogos&type=Date)](https://star-history.com/#SAWARATSUKI/ServiceLogos&Date)
