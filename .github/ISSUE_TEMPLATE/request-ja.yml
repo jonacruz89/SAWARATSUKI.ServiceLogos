@@ -28,7 +28,7 @@ body:
       placeholder: 例) GitHub
     validations:
       required: true
-  
+
   - type: input
     id: service-name-ja
     attributes:
