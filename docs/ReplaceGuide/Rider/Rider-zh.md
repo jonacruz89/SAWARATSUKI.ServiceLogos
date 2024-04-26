@@ -1,10 +1,10 @@
 ﻿# 替换 Rider 启动图片
 
-****
+---
 
 ## 2024.1 版本
 
-****
+---
 
 - 打开 `%userprofile%\AppData\Local\Programs\Rider\lib` 文件夹
 - 将 `app.jar` 复制到一个空的文件夹，并注意备份该文件
