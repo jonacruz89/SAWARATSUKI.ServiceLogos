@@ -65,7 +65,7 @@ def generate_markdown(folders: FolderDict, locale: str | None = None) -> str:
         return " ".join(
             (
                 f'<img src="../{quote(x.relative_to(ROOT_FOLDER).as_posix())}" '
-                f'alt="{x.stem}" width="100" />'
+                f'alt="{quote(x.stem)}" width="100" />'
             )
             for x in images
         )
@@ -74,7 +74,10 @@ def generate_markdown(folders: FolderDict, locale: str | None = None) -> str:
         f"| {l5(locale, 'name')} | {l5(locale, 'image')} |",
         "| --- | --- |",
         *(
-            f"| {folder} | {get_image_tags(images)} |"
+            (
+                f"| {folder} "
+                f"| {get_image_tags(sorted(images, key=lambda x: -1 if x.stem == folder else 0))} |"
+            )
             for folder, images in sorted(folders.items(), key=lambda x: x[0].lower())
         ),
     ]
