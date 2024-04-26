@@ -70,16 +70,20 @@ def generate_markdown(folders: FolderDict, locale: str | None = None) -> str:
             for x in images
         )
 
+    item_list = [
+        (
+            folder,
+            sorted(  # move exact match to first
+                images,
+                key=lambda x: "\0" if x.stem == folder else x.stem.lower(),
+            ),
+        )
+        for folder, images in sorted(folders.items(), key=lambda x: x[0].lower())
+    ]
     lines = [
         f"| {l5(locale, 'name')} | {l5(locale, 'image')} |",
         "| --- | --- |",
-        *(
-            (
-                f"| {folder} "
-                f"| {get_image_tags(sorted(images, key=lambda x: -1 if x.stem == folder else 0))} |"
-            )
-            for folder, images in sorted(folders.items(), key=lambda x: x[0].lower())
-        ),
+        *(f"| {folder} | {get_image_tags(images)} |" for folder, images in item_list),
     ]
     return "\n".join(lines)
 
