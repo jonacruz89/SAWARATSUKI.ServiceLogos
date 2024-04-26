@@ -62,7 +62,7 @@ def find_readme() -> list[ReadMeInfo]:
 
 def generate_markdown(folders: FolderDict, locale: str | None = None) -> str:
     def get_image_tags(images: list[Path]) -> str:
-        return " <br /> ".join(
+        return " ".join(
             (
                 f'<img src="../{quote(x.relative_to(ROOT_FOLDER).as_posix())}" '
                 f'alt="{x.stem}" width="100" />'
