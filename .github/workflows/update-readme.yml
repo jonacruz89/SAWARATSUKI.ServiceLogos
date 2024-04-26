@@ -5,7 +5,7 @@ permissions: write-all
 on:
   push:
     paths:
-      - "*.png"
+      - "**/*.png"
   workflow_dispatch:
 
 jobs:
