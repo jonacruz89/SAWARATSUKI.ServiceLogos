@@ -10,8 +10,7 @@
 [Include any pictures that help demonstrate the changes.]
 
 ## Checklist
-- [ ] I have added/updated tests to cover my changes.
-- [ ] All new and existing tests passed.
+- [ ] I have tested the changes/updates before submitting this pull request.
 
 ## Additional Notes
 [Add any additional notes or context about the changes here.]
