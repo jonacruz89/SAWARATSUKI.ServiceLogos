@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD026 MD033 MD041 -->
 
-[English README](README.md) | [日本語 README](README-ja.md) | [简体中文 README](README-zhHans.md) | [繁體中文 README](README-zhHant.md)
+[English README](README.md) | [日本語 README](README-ja.md) | [简体中文 README](README-zhHans.md) | [繁體中文 README](README-zhHant.md) | [Español README](README-es.md)
 
 # ServiceLogos
 
