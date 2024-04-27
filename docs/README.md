@@ -7,6 +7,9 @@
 > [!WARNING]
 > The logos here are not official logos.
 
+> [!Important]
+> In no circumstances do I allow the use of the logo I created for AI learning.
+
 # License
 
 ## If you want to use the logo, please read this section carefully.
