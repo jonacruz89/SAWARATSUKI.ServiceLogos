@@ -30,7 +30,7 @@ Este es un repositorio creado por Sawaratsuki para subir logos de diversos servi
 ![CC BY-NC-SA 4.0](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png)
 
 1. El creador de estos logos es Sawaratsuki. No se ha renunciado a los derechos de autor en su totalidad. 
-2. Estos logos se proporcionan bajo la licencia [Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en).
+2. Estos logos se proporcionan bajo la licencia [Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es).
    > - Se recomienda atribuir el crédito apropiado. Es un gran motivador, así que se ruega hacerlo encarecidamente.
    > - Puedes modificarlos, pero debes otorgar a la obra derivada la misma licencia (CC BY-NC-SA 4.0) que la original.
    > - El uso comercial (como la venta de productos que lleven el logo) está prohibido. Sin embargo, se permite su venta si se cumplen las siguientes condiciones:
