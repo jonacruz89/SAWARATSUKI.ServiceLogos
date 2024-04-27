@@ -1,4 +1,4 @@
-name: 请求
+name: 请求logo
 description: 请求一个没有被添加过的logo
 title: "[Request] "
 labels: ["request", "enhancement"]
