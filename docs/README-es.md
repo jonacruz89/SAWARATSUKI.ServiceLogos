@@ -4,16 +4,18 @@
 
 # ServiceLogos
 
-Hola, buenos días y buenas noches.
+Hola, buenas a todos.
 Este es un repositorio creado por Sawaratsuki para subir logos de diversos servicios.
 
 > [!WARNING]
 > Estos logos no son oficiales.
-> Se prohíbe utilizar el contenido de este repositorio para IA
+
+> [!IMPORTANT]  
+> No se permite bajo ningún concepto el uso de el contenido de este repositorio para el entrenamiento de IA.
 
 # Licencia
 
-## Si quieres usar un logo, por favor lee la siguiente sección atentamente.
+## Si quieres usar un logo, por favor lee la siguiente sección atentamente
 
 > [!NOTE]
 >
@@ -23,21 +25,22 @@ Este es un repositorio creado por Sawaratsuki para subir logos de diversos servi
 >   Por ejemplo, puedes usarlo para imprimirlo como pegatinas, como iconos para editores, etc.
 > - ¡Por favor, no olvides atribuir los créditos apropiados!
 >   Eres libre de modificar el logo, pero debes licenciar la obra derivada bajo la misma licencia que la del logo original.
-> - Si creas algo usando este logo, sería muy motivador que mencionaras a [Sawaratsuki](https://x.com/sawaratsuki1004) al publicarlo!
+> - Si creas algo usando este logo, ¡sería muy motivador que mencionaras a [Sawaratsuki](https://x.com/sawaratsuki1004) al publicarlo!
 
-### Para todos los contenidos
+### Términos
 
-![CC BY-NC-SA 4.0](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png)
+Los logotipos posteriores al `commit[c2cf292]` no están sujetos a la licencia CC BY-NC-SA 4.0.
+Las siguientes condiciones se aplican a los logotipos posteriores al `commit[c2cf292]`.
 
 1. El creador de estos logos es Sawaratsuki. No se ha renunciado a los derechos de autor en su totalidad. 
-2. Estos logos se proporcionan bajo la licencia [Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es).
+2. Por favor, revisa los puntos siguientes:
    > - Se recomienda atribuir el crédito apropiado. Es un gran motivador, así que se ruega hacerlo encarecidamente.
-   > - Puedes modificarlos, pero debes otorgar a la obra derivada la misma licencia (CC BY-NC-SA 4.0) que la original.
+   > - Puedes modificar los logos.
    > - El uso comercial (como la venta de productos que lleven el logo) está prohibido. Sin embargo, se permite su venta si se cumplen las siguientes condiciones:
    >   1. Si el representante oficial de cada servicio quiere usarlo con ánimo de lucro
    >   2. Si se obtiene permiso de Sawaratsuki
    >      (¡Si descubres algún incumplimiento, por favor contacta con [@Sawaratsuki](https://x.com/sawaratsuki1004) inmediatamente!)
-3. ¡Se pueden crear pegatinas, sellos, etc., para uso personal sin permiso!
+3. ¡Se pueden crear pegatinas, parches, etc., para uso personal sin permiso explícito!
 
 # ¿Quieres un logo que no está aquí?
 
@@ -59,6 +62,12 @@ Si están interesados en comercializar su logo de forma oficial, por favor enví
 - Fuente [Eureka Font]
 - La motivación y sentimientos de Sawaratsuki
 - El feedback y comentarios de todo el mundo
+
+# Aclaraciones y agradecimientos
+
+Estos logotipos son obras derivadas.  
+No son mejores que los logotipos utilizados por los respectivos servicios oficiales.  
+Queremos expresar nuestro más profundo agradecimiento a los contributores que han publicado aquí sus logos.
 
 ## Lista de imágenes
 
@@ -127,3 +136,5 @@ Si están interesados en comercializar su logo de forma oficial, por favor enví
 | X                | <img src="../X/X.png" alt="X" width="100" />                                                                                                                                                                                                                                                                                                              |
 
 <!-- image-list: end -->
+
+En caso de encontrar incoherencias en los README de los distintos idiomas, se debe tomar el README en japonés como referencia.
