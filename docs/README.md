@@ -4,14 +4,6 @@
 
 # Archive ServiceLogos
 
-> [!IMPORTANT]
-> This repository has been archived.
-> The new Repository is available on GitHub
-> Reason for archiving
-> Because there was a license problem by granting CC BY-NC-SA 4.0 at first.
-> I decided to make a new repository.
-> Sorry about that.
-
 > [!WARNING]
 
 > The logos here are not official logos.
