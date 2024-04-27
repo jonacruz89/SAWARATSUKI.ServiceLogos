@@ -83,7 +83,10 @@ def generate_markdown(folders: FolderDict, locale: str | None = None) -> str:
     lines = [
         f"| {l5(locale, 'name')} | {l5(locale, 'image')} |",
         "| --- | --- |",
-        *(f"| {folder} | {get_image_tags(images)} |" for folder, images in item_list),
+        *(
+            f"| [{folder}](/{quote(folder)}) | {get_image_tags(images)} |"
+            for folder, images in item_list
+        ),
     ]
     return "\n".join(lines)
 
