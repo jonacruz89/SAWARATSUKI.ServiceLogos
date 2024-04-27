@@ -2,14 +2,19 @@
 
 [English README](README.md) | [日本語 README](README-ja.md) | [简体中文 README](README-zhHans.md) | [繁體中文 README](README-zhHant.md)
 
-# ServiceLogos
+# Archive ServiceLogos
 
-Hello, good morning, good evening.
-This is a repository created by Sawaratsuki to upload logos of various services.
+> [!IMPORTANT]
+> This repository has been archived.
+> The new Repository is available on GitHub
+Reason for archiving
+Because there was a license problem by granting CC BY-NC-SA 4.0 at first.
+I decided to make a new repository.
+Sorry about that.
 
 > [!WARNING]
+
 > The logos here are not official logos.
-> The contents of this repository are prohibited from being used for AI.
 
 # License
 
@@ -27,17 +32,19 @@ This is a repository created by Sawaratsuki to upload logos of various services.
 
 ### All items
 
-![CC BY-NC-SA 4.0](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png)
+**CC BY-NC-SA 4.0 license is not granted for logos after ## Commit[c2cf292].**  
+**The following terms apply to logos after ## Commit[c2cf292]**
 
-1. The creator of these logos is Sawaratsuki. The copyright has not been completely waived.
-2. These logos are provided under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en).
-   > - It is recommended to give appropriate credit. It is a great motivator, so please do so.
-   > - You can modify or remix it, but you must give the new work the same license (CC BY-NC-SA 4.0) as the original work.
-   > - Commercial use (such as selling products using the logo) is prohibited. However, it can be sold if it falls under the following conditions:
-   >   1. If the official of each service wants to sell for profit
-   >   2. If permission is granted by Sawaratsuki  
-   >      (If you find any violations, please contact [@Sawaratsuki](https://x.com/sawaratsuki1004) immediately!)
-3. It's okay to use stickers, seals, etc., for personal use without permission!
+1. The creator of these logos is SAWATSUKI. Copyright is not fully relinquished.
+2. please make sure that
+   > - It is recommended that credits be clearly indicated. It is motivational, so please do so.
+   > - You may alter or remix the work.
+   > - Use of the logo for commercial purposes (such as selling products using the logo) is prohibited. However, you may sell the logo if the following items are applicable.
+   > 1. when the official of each service wants to sell the product for commercial purposes
+   > 2. when Sawaratsuki gives permission  
+   > (If you find any violation, please contact [@Sawaratsuki](https://x.com/sawaratsuki1004) immediately!)
+3. stickers and stickers can be used without permission within the scope of personal use!
+
 
 # Want a logo that's not here!
 
@@ -59,6 +66,12 @@ If you would like to sell your product officially, please send a [Direct message
 - Font [Eureka Font]
 - Sawaratsuki's motivation and feelings
 - Feedback posts from everyone
+
+# Acknowledgments
+
+These logos are derivative works.  
+There is nothing better than a logo used by each officer.  
+We would like to express our deepest gratitude to the people who  served in this publication.  
 
 ## Image List
 
@@ -127,3 +140,5 @@ If you would like to sell your product officially, please send a [Direct message
 | X                | <img src="../X/X.png" alt="X" width="100" />                                                                                                                                                                                                                                                                                                              |
 
 <!-- image-list: end -->
+
+If there is any inconsistency in the README of each language, the Japanese README will take precedence.

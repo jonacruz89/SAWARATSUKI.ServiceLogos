@@ -10,7 +10,6 @@
 
 > [!WARNING]
 > 这里提供的logo并非官方logo。
-> 该存储库的内容禁止用于人工智能。
 
 # 许可协议
 
@@ -28,19 +27,18 @@
 
 ### 细则：
 
-![CC BY-NC-SA 4.0](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png)
+**Commit[c2cf292] 之后的徽标未获得 CC BY-NC-SA 4.0 许可。**  
+**以下条款适用于提交后的徽标 Commit[c2cf292]。**
 
-1. 这里的logo的制作者是Sawaratsuki。 我并没有完全放弃著作权。
-2. 这里的所有logo都遵循[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ja)的许可协议
-   > - 使用时请标明作者出处，这能极大提升我的创作热情！谢谢！
-   > - 对logo进行适当的修改也是允许的，但是新logo的许可协议要和原来的logo保持一致 (CC BY-NC-SA 4.0) 。
-   > - 商业用途（例如在销售产品上使用这些logo）是被禁止的。但是如果满足下述条件的话则可以贩卖：
-   >
-   >   1. 官方本家希望进行贩卖。
-   >   2. 得到了Sawaratsuki的许可。
-   >
-   >   (发现有人违反了规则的话请立即联系[@Sawaratsuki](https://x.com/sawaratsuki1004)！)
-3. 打印成贴纸之类的个人使用的话可以不经过本人的同意直接使用。
+1. 这些标志的创作者是泽原月。 这并不意味着版权已被完全放弃。
+2. 请检查以下项目。
+    > - 推荐信用。 这会给我动力，所以请尝试一下。
+    > - 可以修改和重新混合。
+    > - 禁止用于商业目的（销售使用该标志的产品等）。 但是，如果属于以下指定的项目，则可以出售。
+    > 1. 如果各服务官方想要将其用于商业目的出售
+    > 2.如果泽原月允许的话
+    > （如发现违规行为，请立即联系[@Sawaratsuki](https://x.com/sawaratsuki1004)！）
+3、未经许可，将贴纸、贴纸等用于个人用途是没有问题的！
 
 # 如果这里没有您想要的logo
 
@@ -63,6 +61,12 @@
 - 字体： [ユールカフォント]
 - Sawaratsuki的创作热情
 - 各位的感想推文（非常感谢！）
+
+# 致谢
+
+这些标志是衍生作品。  
+没有什么比每个官员使用的标志更好的了。  
+我们谨向在此发布服务的人们表示最深切的谢意。  
 
 ## 图片列表
 
@@ -131,3 +135,5 @@
 | X                | <img src="../X/X.png" alt="X" width="100" />                                                                                                                                                                                                                                                                                                              |
 
 <!-- image-list: end -->
+
+如果每种语言的 README 不一致，则以日语 README 为准。
