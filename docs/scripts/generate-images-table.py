@@ -94,8 +94,8 @@ def replace_file(content: str, inner: str) -> str:
     if start_index == -1 or end_index == -1 or start_index >= end_index:
         raise ValueError("Invalid table start or end mark")
 
-    pfx = content[: content.index(START) + len(START)]
-    sfx = content[content.index(END) :]
+    pfx = content[: start_index + len(START)]
+    sfx = content[end_index :]
     return f"{pfx}\n\n{inner}\n\n{sfx}"
 
 
