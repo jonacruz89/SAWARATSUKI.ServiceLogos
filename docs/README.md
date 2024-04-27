@@ -5,7 +5,6 @@
 # Archive ServiceLogos
 
 > [!WARNING]
-
 > The logos here are not official logos.
 
 # License
