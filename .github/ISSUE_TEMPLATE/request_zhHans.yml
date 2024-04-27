@@ -23,7 +23,7 @@ body:
   - type: input
     id: service-name
     attributes:
-      label: 服务名称 
+      label: 服务名称
       description: Logo的服务名称。
       placeholder: 例如：GitHub
     validations:
