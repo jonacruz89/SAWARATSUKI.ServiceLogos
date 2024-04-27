@@ -7,6 +7,9 @@
 > [!WARNING]
 > The logos here are not official logos.
 
+> [!Important]
+> In no circumstances do I allow the use of the logo I created for AI learning.
+
 # License
 
 ## If you want to use the logo, please read this section carefully.
@@ -70,6 +73,7 @@ We would like to express our deepest gratitude to the people who served in this 
 
 | Name             | Image                                                                                                                                                                                                                                                                                                                                                     |
 | ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 403Forbidden     | <img src="../403Forbidden/Forbidden.png" alt="Forbidden" width="100" />                                                                                                                                                                                                                                                                                   |
 | 404Notfound      | <img src="../404Notfound/NotFound.png" alt="NotFound" width="100" />                                                                                                                                                                                                                                                                                      |
 | Angular          | <img src="../Angular/Angular.png" alt="Angular" width="100" /> <img src="../Angular/Angular_Old.png" alt="Angular_Old" width="100" />                                                                                                                                                                                                                     |
 | ArchLinux        | <img src="../ArchLinux/ArchLinux.png" alt="ArchLinux" width="100" />                                                                                                                                                                                                                                                                                      |
