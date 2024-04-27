@@ -7,10 +7,10 @@
 > [!IMPORTANT]
 > This repository has been archived.
 > The new Repository is available on GitHub
-Reason for archiving
-Because there was a license problem by granting CC BY-NC-SA 4.0 at first.
-I decided to make a new repository.
-Sorry about that.
+> Reason for archiving
+> Because there was a license problem by granting CC BY-NC-SA 4.0 at first.
+> I decided to make a new repository.
+> Sorry about that.
 
 > [!WARNING]
 
@@ -40,11 +40,11 @@ Sorry about that.
    > - It is recommended that credits be clearly indicated. It is motivational, so please do so.
    > - You may alter or remix the work.
    > - Use of the logo for commercial purposes (such as selling products using the logo) is prohibited. However, you may sell the logo if the following items are applicable.
+   >
    > 1. when the official of each service wants to sell the product for commercial purposes
    > 2. when Sawaratsuki gives permission  
-   > (If you find any violation, please contact [@Sawaratsuki](https://x.com/sawaratsuki1004) immediately!)
+   >    (If you find any violation, please contact [@Sawaratsuki](https://x.com/sawaratsuki1004) immediately!)
 3. stickers and stickers can be used without permission within the scope of personal use!
-
 
 # Want a logo that's not here!
 
@@ -71,7 +71,7 @@ If you would like to sell your product officially, please send a [Direct message
 
 These logos are derivative works.  
 There is nothing better than a logo used by each officer.  
-We would like to express our deepest gratitude to the people who  served in this publication.  
+We would like to express our deepest gratitude to the people who served in this publication.
 
 ## Image List
 
