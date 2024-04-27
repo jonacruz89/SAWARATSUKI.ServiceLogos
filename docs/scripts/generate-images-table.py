@@ -26,6 +26,7 @@ LOCALE: dict[str, dict[str, str]] = {
     "ja": {"name": "名前", "image": "画像"},
     "zhHans": {"name": "名称", "image": "图片"},
     "zhHant": {"name": "名稱", "image": "圖片"},
+    "es": {"name": "Nombre", "image": "Imagen"},
 }
 
 
