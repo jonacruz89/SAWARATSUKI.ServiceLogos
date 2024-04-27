@@ -1,10 +1,10 @@
 ﻿# Replace Rider Startup Image
 
-****
+---
 
 ## Version 2024.1
 
-****
+---
 
 - Open the `%userprofile%\AppData\Local\Programs\Rider\lib` folder
 - Copy `app.jar` to an empty folder and make sure to back it up

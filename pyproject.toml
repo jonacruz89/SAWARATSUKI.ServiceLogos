@@ -1,0 +1,85 @@
+[project]
+name = "ServiceLogos"
+version = "0"
+description = ""
+authors = []
+dependencies = []
+requires-python = ">=3.10"
+readme = "docs/README.md"
+license = { text = "CC BY-NC-SA 4.0" }
+
+[tool.pdm]
+distribution = false
+
+[tool.pdm.dev-dependencies]
+dev = ["ruff>=0.4.2", "basedpyright>=1.10.4"]
+
+[tool.pdm.scripts]
+generate = "python3 docs/scripts/generate-images-table.py"
+
+[tool.basedpyright]
+pythonVersion = "3.10"
+typeCheckingMode = "standard"
+
+[tool.ruff.lint]
+preview = true
+ignore = [
+    "B008",
+    "B905",
+    # "COM812",
+    "E501",
+    "FBT001",
+    "FBT002",
+    "ISC001",
+    "PERF203",
+    "PGH003",
+    "PLC04",
+    "RUF001",
+    "RUF002",
+    "RUF003",
+    "RUF006",
+    "RUF100",
+    "S101",
+    "S311",
+    "S404",
+    "SIM117",
+    "TRY002",
+    "TRY003",
+]
+select = [
+    "A",
+    "ANN001",
+    "ARG",
+    "ASYNC",
+    "B",
+    "C4",
+    "COM",
+    "DTZ",
+    "E",
+    "F",
+    "FBT",
+    "FLY",
+    "FURB",
+    "I",
+    "ISC",
+    "N",
+    "NPY",
+    "PERF",
+    "PIE",
+    "PGH",
+    # "PL",
+    "PT",
+    "PTH",
+    "PYI",
+    "Q",
+    "RET",
+    "RSE",
+    "RUF",
+    "S",
+    "SIM",
+    "SLF",
+    "SLOT",
+    "TCH",
+    "TRY",
+    "YTT",
+]

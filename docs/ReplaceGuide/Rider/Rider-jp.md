@@ -1,10 +1,10 @@
 ﻿# Rider のスタートアップ画像の交換
 
-****
+---
 
 ## 2024.1 バージョン
 
-****
+---
 
 - `%userprofile%\AppData\Local\Programs\Rider\lib` フォルダを開く
 - `app.jar` を空のフォルダにコピーし、バックアップを取る

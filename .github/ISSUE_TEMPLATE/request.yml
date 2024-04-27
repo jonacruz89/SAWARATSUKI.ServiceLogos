@@ -29,6 +29,15 @@ body:
     validations:
       required: true
 
+  - type: input
+    id: service-name-ja
+    attributes:
+      label: Service name in Japanese
+      description: How to read the service you wish to add in Japanese.
+      placeholder: 例) ギットハブ
+    validations:
+      required: true
+
   - type: textarea
     id: comment
     attributes:

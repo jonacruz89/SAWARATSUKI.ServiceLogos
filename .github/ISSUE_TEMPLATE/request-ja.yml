@@ -29,6 +29,15 @@ body:
     validations:
       required: true
 
+  - type: input
+    id: service-name-ja
+    attributes:
+      label: サービス名の日本語での読み方
+      description: 追加を希望するサービスの日本語での読み方
+      placeholder: 例) ギットハブ
+    validations:
+      required: true
+
   - type: textarea
     id: comment
     attributes:

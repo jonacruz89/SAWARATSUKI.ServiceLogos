@@ -10,6 +10,7 @@ body:
       value: |
         Please post it in the issues. We'll create it once confirmed.
         Depending on individual schedules, we may not be able to respond immediately. It may take several days.
+        Logo will be handled only for correction of typographical errors and other mistakes. Logo design changes will not be handled.
 
   - type: checkboxes
     id: duplicate-check
