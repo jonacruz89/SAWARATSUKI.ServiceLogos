@@ -29,7 +29,7 @@ body:
       placeholder: 例) GitHub
     validations:
       required: true
-  
+
   - type: input
     id: revision-detail
     attributes:
@@ -38,7 +38,7 @@ body:
       placeholder: 例) Githubの日本語表記を「ぎっとはぶ」から「ギットハブ」に修正
     validations:
       required: true
-      
+
   - type: textarea
     id: comment
     attributes:
