@@ -4,76 +4,76 @@
 
 # ServiceLogos
 
-早安，又或是晚安
-
-這裡是用來上傳由 Sawaratsuki 所製作的各式 logo 的 Repository。
+Hola, buenas a todos.
+Este es un repositorio creado por Sawaratsuki para subir logos de diversos servicios.
 
 > [!WARNING]
-> 這裡的所有 logo 皆非官方 logo。
+> Estos logos no son oficiales.
 
-> [!Important]
-> 禁止這裡全部 logo 用於人工智慧的訓練。
+> [!IMPORTANT]  
+> No se permite bajo ningún concepto el uso de el contenido de este repositorio para el entrenamiento de IA.
 
-# 許可協議
+# Licencia
 
-## 若想使用 logo 的話，請務必認真閱讀本節
+## Si quieres usar un logo, por favor lee la siguiente sección atentamente
 
 > [!NOTE]
 >
-> ### 概述:
+> ### Resumen:
 >
-> - 若為非營利目的，可以自由地使用這裡的 logo。例如：製作成貼紙自用、IDE icon 等。
-> - 可以基於原本的 logo 作適當的修改，但需與原本的許可協議保持一致，也請註明出處。
-> - 若有使用到這裡的 logo 製作出一些作品的話，能夠發推特提及 [@Sawaratsuki](https://x.com/sawaratsuki1004)，我會非常高興的！
+> - Eres libre de usar este logo para fines no comerciales y sin ánimo de lucro.
+>   Por ejemplo, puedes usarlo para imprimirlo como pegatinas, como iconos para editores, etc.
+> - ¡Por favor, no olvides atribuir los créditos apropiados!
+>   Eres libre de modificar el logo, pero debes licenciar la obra derivada bajo la misma licencia que la del logo original.
+> - Si creas algo usando este logo, ¡sería muy motivador que mencionaras a [Sawaratsuki](https://x.com/sawaratsuki1004) al publicarlo!
 
-### 細項
+### Términos
 
-**Commit[c2cf292] 之後的標誌未獲得 CC BY-NC-SA 4.0 授權。**  
-**以下條款適用於提交後的標誌 Commit[c2cf292]。**
+Los logotipos posteriores al `commit[c2cf292]` no están sujetos a la licencia CC BY-NC-SA 4.0.
+Las siguientes condiciones se aplican a los logotipos posteriores al `commit[c2cf292]`.
 
-1. 這些標誌的創作者是澤原月。 這並不意味著版權已被完全放棄。
-2. 請檢查以下項目:
-   > - 推薦信用。 這會給我動力，所以請嘗試一下。
-   > - 可以修改和重新混合。
-   > - 禁止用於商業目的（銷售使用該標誌的產品等）。 但是，如果屬於以下指定的項目，則可以出售。
-   >
-   > 1. 如果各服務官方想要將其用於商業目的出售
-   > 2. 如果澤原月允許的話 >（如發現違規行為，請立即聯絡[@Sawaratsuki](https://x.com/sawaratsuki1004)！）
-3. 未經許可，將貼紙、貼紙等用於個人用途是沒有問題的！
+1. El creador de estos logos es Sawaratsuki. No se ha renunciado a los derechos de autor en su totalidad.
+2. Por favor, revisa los puntos siguientes:
+   > - Se recomienda atribuir el crédito apropiado. Es un gran motivador, así que se ruega hacerlo encarecidamente.
+   > - Puedes modificar los logos.
+   > - El uso comercial (como la venta de productos que lleven el logo) está prohibido. Sin embargo, se permite su venta si se cumplen las siguientes condiciones:
+   >   1. Si el representante oficial de cada servicio quiere usarlo con ánimo de lucro
+   >   2. Si se obtiene permiso de Sawaratsuki
+   >      (¡Si descubres algún incumplimiento, por favor contacta con [@Sawaratsuki](https://x.com/sawaratsuki1004) inmediatamente!)
+3. ¡Se pueden crear pegatinas, parches, etc., para uso personal sin permiso explícito!
 
-# 希望能做一個這樣的 logo！
+# ¿Quieres un logo que no está aquí?
 
-請提交 issues，我確認後會進行製作。
-
-因個人的時間安排，可能會花費數天時間，也不一定全部都會製作。
+Por favor, añádelo a "Issues". Lo diseñaremos una vez confirmado.
+Dependiendo de nuestros horarios individuales, puede que no podamos responder inmediatamente. Podría llevarnos varios días.
 
 > [!IMPORTANT]  
-> 開立 issues 時請帶上 `request` 的標籤。
+> Cuando añadas una "Issue", asegúrate de incluir la etiqueta de "request".
 
-# 給各個被製作的服務商或官方
+# Para los representantes oficiales de cada servicio
 
-若想要刪除 logo 的話，請[發私訊聯繫 Sawaratsuki](https://x.com/sawaratsuki1004)，我會馬上刪除的。
+Por favor envía un [mensaje directo a SAWATSUKI](https://x.com/sawaratsuki1004) para solicitar la eliminación de un logo.
+Lo eliminaremos de inmediato.
+Si están interesados en comercializar su logo de forma oficial, por favor envíen un [mensaje directo a SAWATSUKI](https://x.com/sawaratsuki1004) de igual manera!
 
-需要以官方身份販賣的話也請[發私訊聯繫 Sawaratsuki](https://x.com/sawaratsuki1004)。
-
-# 設計時所使用的工具
+# Herramientas usadas para el diseño
 
 - Photoshop / Illustrator
-- 字體：[ユールカフォント]
-- Sawaratsuki 的創作熱情
-- 各位的回饋感想推文（非常感謝！）
+- Fuente [Eureka Font]
+- La motivación y sentimientos de Sawaratsuki
+- El feedback y comentarios de todo el mundo
 
-# 致謝
+# Aclaraciones y agradecimientos
 
-這些標誌是衍生作品。  
-沒有什麼比每個官員使用的標誌更好的了。  
-我們謹向在此發布服務的人表示最深切的謝意。
+Estos logotipos son obras derivadas.  
+No son mejores que los logotipos utilizados por los respectivos servicios oficiales.  
+Queremos expresar nuestro más profundo agradecimiento a los contributores que han publicado aquí sus logos.
 
-# 圖片列表
+## Lista de imágenes
 
 <!-- image-list: start -->
 
-| 名稱                      | 圖片                                                                                                                                                                                                                                                                                                                                                      |
+| Nombre                    | Imagen                                                                                                                                                                                                                                                                                                                                                    |
 | ------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 403Forbidden              | <img src="../403Forbidden/Forbidden.png" alt="Forbidden" width="100" />                                                                                                                                                                                                                                                                                   |
 | 404Notfound               | <img src="../404Notfound/NotFound.png" alt="NotFound" width="100" />                                                                                                                                                                                                                                                                                      |
@@ -140,4 +140,4 @@
 
 <!-- image-list: end -->
 
-如果每種語言的 README 不一致，則以日文 README 為準。
+En caso de encontrar incoherencias en los README de los distintos idiomas, se debe tomar el README en japonés como referencia.

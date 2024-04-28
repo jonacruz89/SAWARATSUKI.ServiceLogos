@@ -26,6 +26,7 @@ LOCALE: dict[str, dict[str, str]] = {
     "ja": {"name": "名前", "image": "画像"},
     "zhHans": {"name": "名称", "image": "图片"},
     "zhHant": {"name": "名稱", "image": "圖片"},
+    "es": {"name": "Nombre", "image": "Imagen"},
 }
 
 
@@ -94,8 +95,8 @@ def replace_file(content: str, inner: str) -> str:
     if start_index == -1 or end_index == -1 or start_index >= end_index:
         raise ValueError("Invalid table start or end mark")
 
-    pfx = content[: content.index(START) + len(START)]
-    sfx = content[content.index(END) :]
+    pfx = content[: start_index + len(START)]
+    sfx = content[end_index :]
     return f"{pfx}\n\n{inner}\n\n{sfx}"
 
 

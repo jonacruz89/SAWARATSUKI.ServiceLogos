@@ -4,76 +4,76 @@
 
 # ServiceLogos
 
-早安，又或是晚安
-
-這裡是用來上傳由 Sawaratsuki 所製作的各式 logo 的 Repository。
+Bonjour à tous,
+Ceci est le dépôt où vous pouvez télécharger les logos des différents services créés par Sawarazuki.
 
 > [!WARNING]
-> 這裡的所有 logo 皆非官方 logo。
+> Les logos présentés ici ne sont pas des logos officiels.
 
-> [!Important]
-> 禁止這裡全部 logo 用於人工智慧的訓練。
+> [!IMPORTANT]  
+> L'utilisation de ces logos pour l'apprentissage d'IA est interdite peu importe l'usage ou les circonstances.
 
-# 許可協議
+# Licence
 
-## 若想使用 logo 的話，請務必認真閱讀本節
+## Si vous souhaitez utiliser un logo, veuillez lire attentivement cette section.
 
 > [!NOTE]
 >
-> ### 概述:
+> ### Résumé :
 >
-> - 若為非營利目的，可以自由地使用這裡的 logo。例如：製作成貼紙自用、IDE icon 等。
-> - 可以基於原本的 logo 作適當的修改，但需與原本的許可協議保持一致，也請註明出處。
-> - 若有使用到這裡的 logo 製作出一些作品的話，能夠發推特提及 [@Sawaratsuki](https://x.com/sawaratsuki1004)，我會非常高興的！
+> - Vous êtes libre d'utiliser ce logo à des fins non commerciales et non lucratives.
+>   Par exemple, vous pouvez l'utiliser pour imprimer des autocollants, des icônes pour les éditeurs de code, etc.
+> - Merci d'indiquer les crédits appropriés !
+>   Vous êtes libre de modifier le logo, mais vous devez placer l'œuvre dérivée sous la même licence que le logo original.
+> - Si vous créez quelque chose en utilisant ce logo, mentionner [Sawaratsuki](https://x.com/sawaratsuki1004) lors de la publication serait motivant !
 
-### 細項
+### Conditions
 
-**Commit[c2cf292] 之後的標誌未獲得 CC BY-NC-SA 4.0 授權。**  
-**以下條款適用於提交後的標誌 Commit[c2cf292]。**
+**La licence CC BY-NC-SA 4.0 n'est pas applicable aux logos après le ## Commit[c2cf292].**
+**Les conditions suivantes s'appliquent aux logos après le ## Commit[c2cf292]**.
 
-1. 這些標誌的創作者是澤原月。 這並不意味著版權已被完全放棄。
-2. 請檢查以下項目:
-   > - 推薦信用。 這會給我動力，所以請嘗試一下。
-   > - 可以修改和重新混合。
-   > - 禁止用於商業目的（銷售使用該標誌的產品等）。 但是，如果屬於以下指定的項目，則可以出售。
-   >
-   > 1. 如果各服務官方想要將其用於商業目的出售
-   > 2. 如果澤原月允許的話 >（如發現違規行為，請立即聯絡[@Sawaratsuki](https://x.com/sawaratsuki1004)！）
-3. 未經許可，將貼紙、貼紙等用於個人用途是沒有問題的！
+1. Le créateur de ces logos est SAWATSUKI. Les droits d'auteur ne sont pas entièrement cédés.
+2. S'il vous plaît, veillez à ce que :
+   > - Il est recommandé d'indiquer clairement les crédits. Il s'agit d'une source de motivation, alors n'hésitez pas à le faire.
+   > - Vous pouvez modifier l'œuvre.
+   > - L'utilisation du logo à des fins commerciales (comme la vente de produits utilisant le logo) est interdite. Toutefois, vous pouvez vendre le logo si les conditions suivantes sont remplies.
+   >   1. Lorsque le propriétaire du service officiel désire vendre le produit a des fins commerciales.
+   >   2. Lorsque Sawaratsuki en donne l'autorisation
+   >      (Si vous constatez une violation, veuillez contacter immédiatement [@Sawaratsuki](https://x.com/sawaratsuki1004) !)
+3. Les autocollants, patchs, etc. peuvent être créés pour un usage personnel sans autorisation explicite !
 
-# 希望能做一個這樣的 logo！
+# Vous désirez un logo pour un service qui n'est pas encore disponible ?
 
-請提交 issues，我確認後會進行製作。
-
-因個人的時間安排，可能會花費數天時間，也不一定全部都會製作。
+Merci de créer une "Issue" pour demander un logo pour le service en question. Le logo sera créé une fois confirmé.
+En fonction des emploi du temps de chacun, il est possible que nous ne puissions pas répondre immédiatement à la demande. Cela pourrait prendre plusieurs jours.
 
 > [!IMPORTANT]  
-> 開立 issues 時請帶上 `request` 的標籤。
+> Lorsque vous publiez des "Issue", veillez à inclure une étiquette "request".
 
-# 給各個被製作的服務商或官方
+# À l'attention des ayants droit des services
 
-若想要刪除 logo 的話，請[發私訊聯繫 Sawaratsuki](https://x.com/sawaratsuki1004)，我會馬上刪除的。
+Veuillez envoyer un [message direct à SAWATSUKI](https://x.com/sawaratsuki1004) pour demander le retrait du logo.
+Le retrait du logo sera effectué immédiatement.
+Si vous souhaitez vendre votre produit officiellement, veuillez envoyer un [Message direct à SAWATSUKI](https://x.com/sawaratsuki1004) de la même manière !
 
-需要以官方身份販賣的話也請[發私訊聯繫 Sawaratsuki](https://x.com/sawaratsuki1004)。
-
-# 設計時所使用的工具
+# Outils utilisés pour la conception
 
 - Photoshop / Illustrator
-- 字體：[ユールカフォント]
-- Sawaratsuki 的創作熱情
-- 各位的回饋感想推文（非常感謝！）
+- Police d'écriture [Eureka Font]
+- La motivation et les sentiments de Sawaratsuki
+- Les retours de la communauté
 
-# 致謝
+# Remerciements
 
-這些標誌是衍生作品。  
-沒有什麼比每個官員使用的標誌更好的了。  
-我們謹向在此發布服務的人表示最深切的謝意。
+Ces logos sont des œuvres dérivées.
+Il n'y a rien de mieux qu'un logo utilisé par chaque représentant.  
+Nous tenons à exprimer notre profonde gratitude aux personnes qui ont participé à cette publication.
 
-# 圖片列表
+## Liste des images
 
 <!-- image-list: start -->
 
-| 名稱                      | 圖片                                                                                                                                                                                                                                                                                                                                                      |
+| Name                      | Image                                                                                                                                                                                                                                                                                                                                                     |
 | ------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 403Forbidden              | <img src="../403Forbidden/Forbidden.png" alt="Forbidden" width="100" />                                                                                                                                                                                                                                                                                   |
 | 404Notfound               | <img src="../404Notfound/NotFound.png" alt="NotFound" width="100" />                                                                                                                                                                                                                                                                                      |
@@ -140,4 +140,4 @@
 
 <!-- image-list: end -->
 
-如果每種語言的 README 不一致，則以日文 README 為準。
+En cas d'incohérence dans le README de chaque langue, le README japonais aura la priorité.
