@@ -8,21 +8,21 @@
 > The logos here are not official logos.
 
 > [!Important]
-> In no circumstances do I allow the use of the logo I created for AI learning.
+> In no circumstances do I allow the use of a logo I created for AI learning.
 
 # License
 
-## If you want to use the logo, please read this section carefully.
+## If you want to use a logo, please read this section carefully.
 
 > [!NOTE]
 >
 > ### Summary:
 >
 > - You are free to use this logo for non-commercial, non-profit purposes.
->   For example, you can use it for printing as stickers, as icons for editors, etc.
+>   For example, you can print it as stickers, as icons for editors, etc.
 > - Please give the appropriate credits!
 >   You are free to modify or remix it, but you must license that new work under the same license as this original logo.
-> - If you create something using this logo, mentioning [Sawaratsuki](https://x.com/sawaratsuki1004) when posting would be motivating!
+> - If you create something using this logo, mentioning me on [Twitter](https://x.com/sawaratsuki1004) when posting would be motivating!
 
 ### All items
 
@@ -31,41 +31,41 @@
 
 1. The creator of these logos is SAWATSUKI. Copyright is not fully relinquished.
 2. please make sure that
-   > - It is recommended that credits be clearly indicated. It is motivational, so please do so.
+   > - It is recommended that credits are clearly indicated.
    > - You may alter or remix the work.
-   > - Use of the logo for commercial purposes (such as selling products using the logo) is prohibited. However, you may sell the logo if the following items are applicable.
+   > - Use of the logo for commercial purposes (such as selling products using a logo) is prohibited. However, you may sell products using a logo if the following items are applicable.
    >
-   > 1. when the official of each service wants to sell the product for commercial purposes
+   > 1. when the official service wants to sell the product for commercial purposes
    > 2. when Sawaratsuki gives permission  
-   >    (If you find any violation, please contact [@Sawaratsuki](https://x.com/sawaratsuki1004) immediately!)
-3. stickers and stickers can be used without permission within the scope of personal use!
+   >    (If you find any violation, please contact and report it to [@Sawaratsuki](https://x.com/sawaratsuki1004) immediately!)
+3. stickers and shirts can be used without permission within the scope of personal use!
 
 # Want a logo that's not here!
 
-Please post it in the issues. We'll create it once confirmed.
-Depending on individual schedules, we may not be able to respond immediately. It may take several days.
+Please make a request in the issues. I'll create it once confirmed.
+Depending on individual schedules, I may not be able to respond immediately, so it might take several days.
 
 > [!IMPORTANT]  
-> When posting to issues, be sure to include a request tag.
+> When posting a request in issues, be sure to include a request tag.
 
 # For officials of each service
 
-Please send a [Direct message to SAWATSUKI](https://x.com/sawaratsuki1004) to request a logo removal.
-We will remove it immediately.
-If you would like to sell your product officially, please send a [Direct message to SAWATSUKI](https://x.com/sawaratsuki1004) in the same way!
+Please send a [Direct message to me](https://x.com/sawaratsuki1004) to request a logo removal.
+I will remove it immediately.
+If you would like to sell your product officially, please send a [Direct message to me](https://x.com/sawaratsuki1004) in the same way!
 
 # Tools used for designing
 
 - Photoshop / Illustrator
 - Font [Eureka Font]
-- Sawaratsuki's motivation and feelings
+- My motivation and feelings
 - Feedback posts from everyone
 
 # Acknowledgments
 
 These logos are derivative works.  
-There is nothing better than a logo used by each officer.  
-We would like to express our deepest gratitude to the people who served in this publication.
+There is nothing better than a logo used by each official.  
+I would like to express my deepest gratitude to the people who served in this publication.
 
 ## Image List
 
