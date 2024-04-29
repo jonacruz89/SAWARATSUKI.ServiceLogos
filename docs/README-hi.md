@@ -8,7 +8,7 @@ Shubh prabhaat,
 Is repository me alag alag services ke liye Sawaratsuki dwara daale gaye logo hai.
 
 > [!WARNING]
-> Ye logos official nahi hai. 
+> Ye logos official nahi hai.
 
 > [!Important]
 > Kisi bhi halat me in logos ka AI learning ke liye use karna mana hai.
@@ -39,7 +39,7 @@ Is repository me alag alag services ke liye Sawaratsuki dwara daale gaye logo ha
    > - In logos se kisi bhi tarah se paisa kamana mana hai ( Jaise ki in logos ko use karke saman bechna). Magar aap in logos ko kuch conditions me bech sakte hai.
    >
    > 1. "Jab us service ka official product ko commercial purposes ke liye bechna chahta hai."
-   > 2. Jab Sawaratsuki aapko agya de 
+   > 2. Jab Sawaratsuki aapko agya de
    >    (Agar aapko koi iska palan nahi karte hue milta hai to [@Sawaratsuki](https://x.com/sawaratsuki1004) se turant sampark kare)
 3. Logos ko sticker banake personal use karne pe koi manahi nahi hai.
 
@@ -74,7 +74,7 @@ Hum is publication mein seva karne waalon ke prati apni gehri shukriya vyakt kar
 
 <!-- image-list: start -->
 
-| Naam                      | Logo                                                                                                                                                                                                                                                                                                                                                    |
+| Name                      | Image                                                                                                                                                                                                                                                                                                                                                     |
 | ------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 403Forbidden              | <img src="../403Forbidden/Forbidden.png" alt="Forbidden" width="100" />                                                                                                                                                                                                                                                                                   |
 | 404Notfound               | <img src="../404Notfound/NotFound.png" alt="NotFound" width="100" />                                                                                                                                                                                                                                                                                      |
