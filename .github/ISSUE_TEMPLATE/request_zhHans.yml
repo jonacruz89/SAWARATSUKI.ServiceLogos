@@ -1,7 +1,7 @@
 name: 请求logo
 description: 请求一个没有被添加过的logo
 title: "[Request] "
-labels: ["request", "enhancement", "http-code"]
+labels: ["request", "enhancement"]
 assignees:
   - SAWARATSUKI
 body:

@@ -1,7 +1,7 @@
 name: Request
 description: Request a logo that's not here.
 title: "[Request] "
-labels: ["request", "enhancement", "http-code"]
+labels: ["request", "enhancement"]
 assignees:
   - SAWARATSUKI
 body:
