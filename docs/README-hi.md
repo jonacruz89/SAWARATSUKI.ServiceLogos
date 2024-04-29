@@ -1,79 +1,80 @@
 <!-- markdownlint-disable MD026 MD033 MD041 -->
 
-[English README](README.md) | [日本語 README](README-ja.md) | [简体中文 README](README-zhHans.md) | [繁體中文 README](README-zhHant.md) | [Español README](README-es.md) | [README Français](README-fr.md)
+[English README](README.md) | [日本語 README](README-ja.md) | [简体中文 README](README-zhHans.md) | [繁體中文 README](README-zhHant.md) | [Español README](README-es.md) | [README Français](README-fr.md) | [Hindi README](README-hi.md)
 
 # ServiceLogos
 
-こんにちは、こんばんは
-ここはさわらつきが作った各サービスのロゴをアップロードするリポジトリです。
+Shubh prabhaat,
+Is repository me alag alag services ke liye Sawaratsuki dwara daale gaye logo hai.
 
 > [!WARNING]
-> ここにあるロゴは公式のロゴではありません。
+> Ye logos official nahi hai.
 
 > [!Important]
-> いかなる場合においても、ロゴをAI学習に使用することは認めません。
+> Kisi bhi halat me in logos ka AI learning ke liye use karna mana hai.
 
-# ライセンス
+# License
 
-## ロゴを使用したい場合、このセクションを必ずお読みください
+## Agar logo use karna hai to aage dhyaan se padhe.
 
 > [!NOTE]
 >
-> ### 要約:
+> ### Saaransh:
 >
-> - 営利目的でない、非営利目的である場合このロゴを自由に使用することが出来ます。
->   例えば、シールやステッカーとして印刷することやエディタのアイコンなどに使用できます。
-> - クレジットを明記してほしいです！
->   改変やリミックスは自由ですが、その新しい作品にもこの元のロゴと同じライセンスを付けてください。
-> - このロゴを使用してなにか作った場合は[さわらつきをメンション](https://x.com/sawaratsuki1004)してポストしてくれるとモチベーションに繋がります！
+> - In logos ka istemaal aap aise kar sakte hai jisse apko koi laabh ya paisa na mile.
+>   Jaise ki stickers ke roop mein print karke ya editors ke icons ke roop mein, aap inka istemal kar sakte hain.
+> - Credits dena bilkul zaroori hai!
+>   Aap ise modify ya remix kar sakte hai, lekin aapko us naye logo ko original logo ke saath ek hi license ke antargat license karna hoga.
+> - Agar aap is logo ka istemal karke kuch banate hai, toh jab post karte hai tab [Sawaratsuki](https://x.com/sawaratsuki1004) ko mention karna motivation dega!
 
-### 全項
+### Sab items
 
-**Commit[c2cf292]以降のロゴについてはCC BY-NC-SA 4.0のライセンスが付与されません。**  
-**Commit[c2cf292]以降のロゴは以下の規約が適用されます。**
+**CC BY-NC-SA 4.0 license ## Commit[c2cf292] ke baad nahi diye gaye hai**  
+**## Commit[c2cf292] ke baad yah niyam lagu honge**
 
-1. これらのロゴの作成者は さわらつき です。 著作権を完全に放棄したわけではありません。
-2. 以下の項目を確認してください。
-   > - クレジットを明記することが推奨されます。モチベーションに繋がりますので、ぜひお願いします。
-   > - 改変、リミックスすることが可能です。
-   > - 営利目的（ロゴを使用した商品の販売等）での使用は禁止です。ただし以下に定める項目に該当する場合は販売することが出来ます。
-   >   1. 各サービスの公式が営利目的で販売したい場合
-   >   2. さわらつきが許可した場合  
-   >      (違反を見つけた場合はすぐに[@さわらつき](https://x.com/sawaratsuki1004)にご連絡ください！)
-3. ステッカーやシールなどを個人使用の範囲で許可なく使用しても問題ありません！
+1. In logo ko SAWATSUKI ne banaya hai. Copyright puri tarah se hataya nahi gaya hai.
+2. In baato ka dhyaan rakhe
+   > - Puri tarah se credit dena acha rahega , isse utsah badhta hai.
+   > - Aap in logos ko remix ya badal sakte hai.
+   > - In logos se kisi bhi tarah se paisa kamana mana hai ( Jaise ki in logos ko use karke saman bechna). Magar aap in logos ko kuch conditions me bech sakte hai.
+   >
+   > 1. "Jab us service ka official product ko commercial purposes ke liye bechna chahta hai."
+   > 2. Jab Sawaratsuki aapko agya de
+   >    (Agar aapko koi iska palan nahi karte hue milta hai to [@Sawaratsuki](https://x.com/sawaratsuki1004) se turant sampark kare)
+3. Logos ko sticker banake personal use karne pe koi manahi nahi hai.
 
-# ここにないロゴが欲しい！
+# Koi aisa logo chahiye jo yaha nahi hai ?
 
-issuesに投稿してください。確認次第作成します。
-個人のスケジュールにより対応できない場合もあります。数日かかる場合もあります。
+Aap is repo ke issues me bata dijiye , confirm karne ke baad ham bana denge.
+Har kisi ke schedules ke anusaar, hum turant jawaab nahi de sakte. Kuch dino tak bhi lag sakta hai.
 
 > [!IMPORTANT]  
-> issuesに投稿する場合必ずリクエストタグを付けて投稿してください
+> Jab issue post kar rahe ho to request tag lagana na bhule
 
-# 各サービスの公式の方へ
+# Services ke officials ke liye
 
-ロゴの削除を申請する場合は[さわらつきのダイレクトメッセージ](https://x.com/sawaratsuki1004)までお問い合わせください
-すぐに削除いたします
-公式で販売したい場合も同様に[さわらつきのダイレクトメッセージ](https://x.com/sawaratsuki1004)までお問い合わせください
+[SAWATSUKI](https://x.com/sawaratsuki1004) ko ek message bhejiye,
+Ham usse turant hata denge.
+Agar aapko apne products bechne hai to uske liye bhi [SAWATSUKI](https://x.com/sawaratsuki1004) ko ek message bhej dijiye.
 
-# デザインを作るに当たって使用しているもの
+# Designing ke liye istemal kiye gaye tools
 
 - Photoshop / Illustrator
-- Font [ユールカフォント]
-- さわらつきのモチベーションと気持ち
-- 皆様の感想ポスト
+- Font [Eureka Font]
+- Sawaratsuki ka utsah
+- Aapke vichar ke tweets (Bohot dhanyavaad!)
 
-# 謝辞
+# Acknowledgments
 
-これらのロゴは二次創作です。  
-各公式が使用しているロゴに勝るものはありません。  
-ここで公開したサービスの方たちに深く感謝いたします。
+Ye logos naye creations hain.  
+Har officer ke dwaara istemal kiye gaye logos se behtar kuch nahi hai.  
+Hum is publication mein seva karne waalon ke prati apni gehri shukriya vyakt karna chaahenge.
 
-# 画像一覧
+## Logos ka list
 
 <!-- image-list: start -->
 
-| 名前                                                     | 画像                                                                                                                                                                                                                                                                                                                                                      |
+| Name                                                     | Image                                                                                                                                                                                                                                                                                                                                                     |
 | -------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [403Forbidden](/403Forbidden)                            | <img src="../403Forbidden/Forbidden.png" alt="Forbidden" width="100" />                                                                                                                                                                                                                                                                                   |
 | [404Notfound](/404Notfound)                              | <img src="../404Notfound/NotFound.png" alt="NotFound" width="100" />                                                                                                                                                                                                                                                                                      |
@@ -142,4 +143,4 @@ issuesに投稿してください。確認次第作成します。
 
 <!-- image-list: end -->
 
-各言語のREADMEで不整合があった場合は、日本語のREADMEを優先します。
+Agar kisi bhasa ka README me taal mel hai , to Japanese README ko sabse sahi mana jayega.

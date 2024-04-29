@@ -39,6 +39,13 @@ def l5(n: str | None, k: str) -> str:
     return k
 
 
+def md_escape(txt: str) -> str:
+    chars = ["\\", "`", "*", "_", "{", "}", "[", "]", "(", ")", "#", "+", "-", ".", "!"]
+    for char in chars:
+        txt = txt.replace(char, rf"\{char}")
+    return txt
+
+
 def find_image_folders() -> FolderDict:
     return {
         x.name: images
@@ -84,7 +91,10 @@ def generate_markdown(folders: FolderDict, locale: str | None = None) -> str:
     lines = [
         f"| {l5(locale, 'name')} | {l5(locale, 'image')} |",
         "| --- | --- |",
-        *(f"| {folder} | {get_image_tags(images)} |" for folder, images in item_list),
+        *(
+            f"| [{md_escape(folder)}](/{quote(folder)}) | {get_image_tags(images)} |"
+            for folder, images in item_list
+        ),
     ]
     return "\n".join(lines)
 
