@@ -4,65 +4,73 @@
 
 # ServiceLogos
 
-你好，早上好，或者晚上好。
+你好，抑或是晚上好。
 
-这里是用来管理由Sawaratsuki制作的各种logo的仓库。
+这里是用来管理由さわらつき（SAWARATSUKI）制作的各种徽标（Logo）的仓库。
 
 > [!WARNING]
-> 这里提供的logo并非官方logo。
+> 这里提供的徽标并非官方徽标。
 
-# 许可协议
+> [!IMPORTANT]
+> 在任何情况下都不允许将此徽标用于 AI 学习。
 
-## 想要使用logo的话请务必认真阅读本节
+# 许可证
+
+## 想要使用徽标的话请务必认真阅读本节
 
 > [!NOTE]
 >
-> ### 概述:
+> ### 概述
 >
-> - 只要是非盈利目的就可以自由使用这里的logo。
->   比如说自己打印成贴纸自用或者是用作IDE的图标之类的。
-> - 请标明作者出处！
->   可以适当进行修改，但是新logo的许可协议要和原来的logo保持一致。
-> - 如果你使用了这里的logo来做了一些什么东西的话，能够发推特提及[@Sawaratsuki](https://x.com/sawaratsuki1004)我一下，我会非常兴奋的！
+> - 只要是非盈利目的就可以自由使用这里的徽标。
+>   比如说自己打印成贴纸自用或者是用作编辑器的图标之类的。
+> - 请注明正确的来源！
+>   可以适当进行修改，但是新徽标的许可协议要和原来的徽标保持一致。
+> - 如果你使用了这里的徽标来做了一些什么东西的话，能够发推特提及[@さわらつき](https://x.com/sawaratsuki1004)，我会非常兴奋的！
 
-### 细则：
+### 细则
 
-**Commit[c2cf292] 之后的徽标未获得 CC BY-NC-SA 4.0 许可。**  
-**以下条款适用于提交后的徽标 Commit[c2cf292]。**
+**`Commit[c2cf292]` 之后的徽标未获得 CC BY-NC-SA 4.0 许可。**  
+**以下条款适用于提交后的徽标 `Commit[c2cf292]`。**
 
-1. 这些标志的创作者是泽原月。 这并不意味着版权已被完全放弃。
-2. 请检查以下项目。> - 推荐信用。 这会给我动力，所以请尝试一下。> - 可以修改和重新混合。> - 禁止用于商业目的（销售使用该标志的产品等）。 但是，如果属于以下指定的项目，则可以出售。> 1. 如果各服务官方想要将其用于商业目的出售 > 2.如果泽原月允许的话 > （如发现违规行为，请立即联系[@Sawaratsuki](https://x.com/sawaratsuki1004)！）
-   3、未经许可，将贴纸、贴纸等用于个人用途是没有问题的！
+1. 这些徽标的创作者是**さわらつき**。这并不意味着版权已被完全放弃。
+2. 请检查以下事项。
+   > - 推荐注明来源。这会给我动力，所以请尝试一下。
+   > - 可以修改和重新混合。
+   > - 禁止用于商业目的（例如销售标有此徽标的产品等）。 但是，如果符合以下条件，则可以进行销售。
+   >   1. 如果各服务的官方想要将其用于商业目的销售
+   >   2. 如果 さわらつき 允许的话
+   >      （如发现违规行为，请立即联系推特[@さわらつき](https://x.com/sawaratsuki1004)！）
+3. 未经许可，将贴纸、便签等用于个人使用是没有问题的！
 
-# 如果这里没有您想要的logo
+# 如果这里没有想要的徽标
 
-请提交issues。我确认了之后就会设计制作logo。
+请提交 issues。我确认了之后就会设计制作徽标。
+由于个人时间安排等因素，可能会在几天之后才能对你的请求做出回应。
 
-由于个人时间安排等因素，我们可能会在几天之后才能对你的请求做出回应。
+> [!IMPORTANT]
+> 提交 issues 时请务必带上 request 的标签。
 
-> [!IMPORTANT]  
-> 提交issues时请务必带上request的标签。
+# 致各服务的官方
 
-# 写给各个服务商官方：
-
-请通过[私信联系Sawaratsuki](https://x.com/sawaratsuki1004)申请移除logo。 我们将立即为您移除。
-
-如果你想要售卖带有这些logo的产品的话也请[私信联系Sawaratsuki](https://x.com/sawaratsuki1004)。
+如果想要申请移除徽标，请通过推特[私信联系@さわらつき](https://x.com/sawaratsuki1004)。
+我将立即为您移除。
+如果您想要进行官方的销售，请同样地推特[私信联系@さわらつき](https://x.com/sawaratsuki1004)。
 
 # 设计工具
 
 - Photoshop / Illustrator
-- 字体： [ユールカフォント]
-- Sawaratsuki的创作热情
-- 各位的感想推文（非常感谢！）
+- 字体：【ユールカフォント】
+- さわらつき的创作热情
+- 大家的反馈帖子
 
 # 致谢
 
-这些标志是衍生作品。  
-没有什么比每个官员使用的标志更好的了。  
-我们谨向在此发布服务的人们表示最深切的谢意。
+这些徽标是衍生作品。  
+没有什么比官方原生徽标更好的了。  
+我在此对在此公开仓库中出力的各方表示最诚挚的感谢。
 
-## 图片列表
+# 图片列表
 
 <!-- image-list: start -->
 
@@ -74,6 +82,7 @@
 | [503ServiceUnavailable\.png](/503ServiceUnavailable.png)                                 | <img src="../503ServiceUnavailable.png/ServiceUnavailable.png" alt="ServiceUnavailable" width="100" />                                                                                                                                                                                                                                                    |
 | [Angular](/Angular)                                                                      | <img src="../Angular/Angular.png" alt="Angular" width="100" /> <img src="../Angular/Angular_Old.png" alt="Angular_Old" width="100" />                                                                                                                                                                                                                     |
 | [ArchLinux](/ArchLinux)                                                                  | <img src="../ArchLinux/ArchLinux.png" alt="ArchLinux" width="100" />                                                                                                                                                                                                                                                                                      |
+| [Bluesky](/Bluesky)                                                                      | <img src="../Bluesky/Bluesky.png" alt="Bluesky" width="100" />                                                                                                                                                                                                                                                                                            |
 | [C](/C)                                                                                  | <img src="../C/C.png" alt="C" width="100" />                                                                                                                                                                                                                                                                                                              |
 | [C\#](/C%23)                                                                             | <img src="../C%23/C%23.png" alt="C%23" width="100" /> <img src="../C%23/C%23%20Purple.png" alt="C%23%20Purple" width="100" />                                                                                                                                                                                                                             |
 | [C\+\+](/C%2B%2B)                                                                        | <img src="../C%2B%2B/C%2B%2B.png" alt="C%2B%2B" width="100" />                                                                                                                                                                                                                                                                                            |
@@ -140,4 +149,4 @@
 
 <!-- image-list: end -->
 
-如果每种语言的 README 不一致，则以日语 README 为准。
+如果各语言的 README 不一致，则以日语 README 为准。
