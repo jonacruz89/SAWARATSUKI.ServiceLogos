@@ -1,7 +1,7 @@
 name: リクエスト
 description: ロゴの追加依頼
 title: "[Request] "
-labels: ["request", "enhancement"]
+labels: ["request", "enhancement", "http-code"]
 assignees:
   - SAWARATSUKI
 body:
