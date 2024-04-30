@@ -20,7 +20,7 @@ jobs:
       - name: Run Commands
         run: |-
           echo "SHORT_SHA=$(echo $GITHUB_SHA | cut -c 1-7)" >> $GITHUB_ENV
-          python3 socs/scripts/generate-changelog.py
+          python3 docs/scripts/generate-changelog.py
       - if: ${{ hashFiles('changelog.md') != '' }}
         uses: softprops/action-gh-release@v2
         with:
