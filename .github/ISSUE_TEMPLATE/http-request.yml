@@ -1,0 +1,49 @@
+name: HTTP Code Request
+description: Request a http logo that's not here.
+title: "[Request] "
+labels: ["request", "enhancement", "http-code"]
+assignees:
+  - SAWARATSUKI
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please post it in the issues. We'll create it once confirmed.
+        Depending on individual schedules, we may not be able to respond immediately. It may take several days.
+
+        For reference on HTTP status codes, please consult the IANA registry [here](https://www.iana.org/assignments/http-status-codes/http-status-codes.xhtml)
+
+  - type: checkboxes
+    id: duplicate-check
+    attributes:
+      label: Check for duplicates
+      description: Check that the Issue has not been duplicated.
+      options:
+        - label: Checked
+          required: true
+
+  - type: input
+    id: status-code
+    attributes:
+      label: HTTP Status Code
+      description: Enter the specific HTTP status code.
+      placeholder: ex. 404 Not Found
+    validations:
+      required: true
+
+  - type: input
+    id: status-code-ja
+    attributes:
+      label: HTTP Status Code in Japanese
+      description: How to read the http code you wish to add in Japanese.
+      placeholder: 例) 404 見つかりません
+    validations:
+      required: true
+
+  - type: textarea
+    id: comment
+    attributes:
+      label: Comment
+      description: Add any additional information here. (Optional)
+    validations:
+      required: false
