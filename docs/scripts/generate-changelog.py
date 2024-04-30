@@ -69,7 +69,7 @@ def main():
         [
             (
                 f"- **{NAME.get(status[0])}**: "
-                f"{' -> '.join(f'`{md_escape(x)}`' for x in rest)}"
+                f"{' -> '.join(md_escape(x) for x in rest)}"
             )
             for status, *rest in diff_spiltted
         ],
