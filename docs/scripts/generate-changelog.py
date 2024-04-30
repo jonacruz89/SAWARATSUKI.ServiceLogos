@@ -28,7 +28,9 @@ def md_escape(txt: str) -> str:
 
 
 def run(cmd: list[str]) -> str:
-    return Popen(cmd, stdout=PIPE).communicate()[0].decode("u8")  # noqa: S603
+    out = decode(Popen(cmd, stdout=PIPE).communicate()[0])  # noqa: S603
+    # print(out)
+    return out  # noqa: RET504
 
 
 def main():
@@ -57,7 +59,7 @@ def main():
                 and splitted[1].endswith(".png")
             )
         ],
-        key=lambda x: order.index(x[0]),
+        key=lambda x: order.index(x[0][0]),
     )
     if not diff_spiltted:
         print("No image changes detected.")
@@ -65,7 +67,10 @@ def main():
 
     changelog = "\n".join(
         [
-            f"- **{NAME.get(status)}**: {' -> '.join(md_escape(x) for x in rest)}"
+            (
+                f"- **{NAME.get(status[0])}**: "
+                f"{' -> '.join(f'`{md_escape(x)}`' for x in rest)}"
+            )
             for status, *rest in diff_spiltted
         ],
     )
