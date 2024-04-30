@@ -21,9 +21,7 @@ def decode(s: bytes) -> str:
 
 
 def run(cmd: list[str]) -> str:
-    out = decode(Popen(cmd, stdout=PIPE).communicate()[0])  # noqa: S603
-    # print(out)
-    return out  # noqa: RET504
+    return decode(Popen(cmd, stdout=PIPE).communicate()[0])  # noqa: S603
 
 
 def main():
