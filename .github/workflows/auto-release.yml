@@ -32,19 +32,19 @@ jobs:
         run: |-
           echo "SHORT_SHA=$(echo $GITHUB_SHA | cut -c 1-7)" >> $GITHUB_ENV
           for file in ${ADDED_FILES}; do
-            echo "- **Added**: ${file}" > changelog.md
+            echo "- **Added**: ${file}" >> changelog.md
           done
           for file in ${COPIED_FILES}; do
-            echo "- **Copied**: ${file}" > changelog.md
+            echo "- **Copied**: ${file}" >> changelog.md
           done
           for file in ${MODIFIED_FILES}; do
-            echo "- **Modified**: ${file}" > changelog.md
+            echo "- **Modified**: ${file}" >> changelog.md
           done
           for file in ${RENAMED_FILES}; do
-            echo "- **Renamed**: ${file}" > changelog.md
+            echo "- **Renamed**: ${file}" >> changelog.md
           done
           for file in ${DELETED_FILES}; do
-            echo "- **Deleted**: ${file}" > changelog.md
+            echo "- **Deleted**: ${file}" >> changelog.md
           done
       - if: steps.changed-files.outputs.any_modified == 'true'
         uses: softprops/action-gh-release@v2
