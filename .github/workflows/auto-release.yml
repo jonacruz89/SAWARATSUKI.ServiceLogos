@@ -1,0 +1,54 @@
+name: Auto Release
+
+permissions:
+  contents: write
+
+on:
+  push:
+    paths:
+      - "**.png"
+  workflow_dispatch:
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+          submodules: true
+      - uses: tj-actions/changed-files@v44
+        id: changed-files
+        with:
+          files: "**.png"
+      - if: steps.changed-files.outputs.any_modified == 'true'
+        name: Run Pre Commands
+        env:
+          ADDED_FILES: ${{ steps.changed-files.outputs.added_files }}
+          COPIED_FILES: ${{ steps.changed-files.outputs.copied_files }}
+          MODIFIED_FILES: ${{ steps.changed-files.outputs.modified_files }}
+          RENAMED_FILES: ${{ steps.changed-files.outputs.renamed_files }}
+          DELETED_FILES: ${{ steps.changed-files.outputs.deleted_files }}
+        run: |-
+          echo "SHORT_SHA=$(echo $GITHUB_SHA | cut -c 1-7)" >> $GITHUB_ENV
+          for file in ${ADDED_FILES}; do
+            echo "- **Added**: ${file}" > changelog.md
+          done
+          for file in ${COPIED_FILES}; do
+            echo "- **Copied**: ${file}" > changelog.md
+          done
+          for file in ${MODIFIED_FILES}; do
+            echo "- **Modified**: ${file}" > changelog.md
+          done
+          for file in ${RENAMED_FILES}; do
+            echo "- **Renamed**: ${file}" > changelog.md
+          done
+          for file in ${DELETED_FILES}; do
+            echo "- **Deleted**: ${file}" > changelog.md
+          done
+      - if: steps.changed-files.outputs.any_modified == 'true'
+        uses: softprops/action-gh-release@v2
+        with:
+          name: Auto Release ${{ env.SHORT_SHA }}
+          tag_name: ${{ env.SHORT_SHA }}
+          body_path: changelog.md
