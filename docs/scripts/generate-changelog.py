@@ -20,13 +20,6 @@ def decode(s: bytes) -> str:
         return s.decode(ENC, errors="replace")
 
 
-def md_escape(txt: str) -> str:
-    chars = ["\\", "`", "*", "_", "{", "}", "[", "]", "(", ")", "#", "+", "-", ".", "!"]
-    for char in chars:
-        txt = txt.replace(char, rf"\{char}")
-    return txt
-
-
 def run(cmd: list[str]) -> str:
     out = decode(Popen(cmd, stdout=PIPE).communicate()[0])  # noqa: S603
     # print(out)
@@ -67,10 +60,7 @@ def main():
 
     changelog = "\n".join(
         [
-            (
-                f"- **{NAME.get(status[0])}**: "
-                f"{' -> '.join(md_escape(x) for x in rest)}"
-            )
+            f"- **{NAME.get(status[0])}**: {' -> '.join(f'`{x}`' for x in rest)}"
             for status, *rest in diff_spiltted
         ],
     )
