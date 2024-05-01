@@ -33,7 +33,10 @@ LOCALE: dict[str, dict[str, str]] = {
 
 GIT_IGNORE = PathSpec.from_lines(
     GitWildMatchPattern,
-    (ROOT_FOLDER / ".gitignore").read_text("u8").splitlines(),
+    [
+        *(ROOT_FOLDER / ".gitignore").read_text("u8").splitlines(),
+        "docs",
+    ],
 )
 
 
