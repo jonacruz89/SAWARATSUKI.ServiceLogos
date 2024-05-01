@@ -10,7 +10,7 @@
 > [!Important]
 > Dalam kondisi apa pun, logo-logo tersebut tidak diizinkan untuk digunakan untuk pembelajaran AI.
 
-# Lisensi.
+# Lisensi
 
 ## Jika Anda ingin menggunakan logo, pastikan Anda membaca bagian ini.
 
@@ -22,13 +22,13 @@
 > - Tolong berikan kredit yang sesuai! Anda bebas untuk memodifikasi atau me-remixnya, namun Anda harus melisensikan karya baru tersebut di bawah lisensi yang sama dengan logo asli ini.
 > - Jika Anda membuat sesuatu dengan menggunakan logo ini, akan sangat memotivasi jika Anda [menyebutkan SAWATSUKI](https://x.com/sawaratsuki1004) dan mempostingnya!
 
-### Semua bagian.
+### Semua bagian
 
-Lisensi CC BY-NC-SA 4.0 tidak diberikan untuk logo setelah **Commit[c2cf292]. **  
-Untuk logo setelah **Commit[c2cf292], ketentuan berikut ini berlaku. **
+**Lisensi CC BY-NC-SA 4.0 tidak diberikan untuk logo setelah ## Commit[c2cf292].**  
+**Untuk logo setelah ## Commit[c2cf292], ketentuan berikut ini berlaku.**
 
 1. Pencipta logo-logo ini adalah SAWATSUKI. Hak cipta belum sepenuhnya dilepaskan.
-2. Hal-hal berikut ini.
+2. Pastikan hal-hal berikut ini
    > - Disarankan agar kredit dinyatakan dengan jelas. Ini adalah alat motivasi, jadi mohon.
    > - Anda boleh mengubah atau me-remix karya ini.
    > - Dilarang menggunakan karya untuk tujuan komersial (misalnya menjual produk dengan menggunakan logo). Namun, karya tersebut dapat dijual jika hal-hal berikut ini berlaku.
@@ -42,13 +42,13 @@ Untuk logo setelah **Commit[c2cf292], ketentuan berikut ini berlaku. **
 Silakan kirimkan di #issues. Kami akan membuatnya segera setelah kami mengonfirmasinya.
 Kami mungkin tidak dapat merespons karena jadwal pribadi. Mungkin perlu waktu beberapa hari.
 
-> [!PENTING]  
+> [!IMPORTANT]  
 > Saat mengirimkan issues, pastikan untuk menyertakan tag "request".
 
 # Untuk pejabat dari layanan yang bersangkutan.
 
-Jika Anda ingin meminta penghapusan logo, silakan hubungi [saya melalui DM](https://x.com/sawaratsuki1004)
-Kami akan segera menghapusnya!
+Jika Anda ingin meminta penghapusan logo, silakan hubungi [saya melalui DM](https://x.com/sawaratsuki1004)  
+Kami akan segera menghapusnya!  
 Jika Anda ingin menjualnya secara resmi, silakan hubungi [saya melalui DM](https://x.com/sawaratsuki1004) juga!
 
 # Alat yang digunakan untuk mendesain
@@ -62,18 +62,18 @@ Jika Anda ingin menjualnya secara resmi, silakan hubungi [saya melalui DM](https
 
 Logo-logo ini adalah karya turunan.  
 Mereka tidak lebih baik dari logo yang digunakan oleh masing-masing layanan resmi.  
-Kami ingin mengucapkan terima kasih yang sebesar-besarnya kepada layanan yang menerbitkannya di sini.
+Saya ingin mengucapkan terima kasih yang sebesar-besarnya kepada orang-orang yang telah membantu publikasi ini.
 
-# Daftar gambar.
+# List gambar
 
 <!-- image-list: start -->
 
-| Name                                                                                     | Image                                                                                                                                                                                                                                                                                                                                                     |
+| Nama                                                                                     | Gambar                                                                                                                                                                                                                                                                                                                                                     |
 | ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [403Forbidden](/403Forbidden)                                                            | <img src="../403Forbidden/Forbidden.png" alt="Forbidden" width="100" />                                                                                                                                                                                                                                                                                   |
 | [404Notfound](/404Notfound)                                                              | <img src="../404Notfound/NotFound.png" alt="NotFound" width="100" />                                                                                                                                                                                                                                                                                      |
 | [418I'mateapot](/418I%27mateapot)                                                        | <img src="../418I%27mateapot/418I%27mateapot.png" alt="418I%27mateapot" width="100" />                                                                                                                                                                                                                                                                    |
-| [503ServiceUnavailable\.png](/503ServiceUnavailable.png)                                 | <img src="../503ServiceUnavailable.png/ServiceUnavailable.png" alt="ServiceUnavailable" width="100" />                                                                                                                                                                                                                                                    |
+| [503ServiceUnavailable](/503ServiceUnavailable.png)                                 | <img src="../503ServiceUnavailable.png/ServiceUnavailable.png" alt="ServiceUnavailable" width="100" />                                                                                                                                                                                                                                                    |
 | [Angular](/Angular)                                                                      | <img src="../Angular/Angular.png" alt="Angular" width="100" /> <img src="../Angular/Angular_Old.png" alt="Angular_Old" width="100" />                                                                                                                                                                                                                     |
 | [ArchLinux](/ArchLinux)                                                                  | <img src="../ArchLinux/ArchLinux.png" alt="ArchLinux" width="100" />                                                                                                                                                                                                                                                                                      |
 | [Bluesky](/Bluesky)                                                                      | <img src="../Bluesky/Bluesky.png" alt="Bluesky" width="100" />                                                                                                                                                                                                                                                                                            |
