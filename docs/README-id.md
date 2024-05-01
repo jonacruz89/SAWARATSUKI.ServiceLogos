@@ -4,9 +4,6 @@
 
 # Arsip ServiceLogos
 
-Selamat datang.
-Ini adalah repositori dimana Anda bisa mendapatkan logo dari berbagai layanan yang dibuat oleh Sawarazuki.
-
 > [!WARNING]
 > Logo yang ada di sini bukanlah logo resmi.
 
