@@ -2,7 +2,7 @@
 
 [English README](README.md) | [日本語 README](README-ja.md) | [简体中文 README](README-zhHans.md) | [繁體中文 README](README-zhHant.md) | [Español README](README-es.md) | [README Français](README-fr.md) | [README Bahasa](README-id.md)
 
-# Arsip ServiceLogos
+# ServiceLogos
 
 > [!WARNING]
 > Logo yang ada di sini bukanlah logo resmi.
