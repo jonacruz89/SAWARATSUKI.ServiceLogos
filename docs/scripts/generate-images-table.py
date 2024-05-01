@@ -89,11 +89,7 @@ def find_readme() -> list[ReadMeInfo]:
     return [
         ReadMeInfo(
             path=x,
-            locale=(
-                res["loc"]
-                if (res := re.search(r"README-(?P<loc>.+)", x.stem))
-                else "en"
-            ),
+            locale=(n[n.index("-") + 1] if "-" in (n := x.stem) else "en"),
         )
         for x in DOCS_FOLDER.glob("README*.md")
     ]
