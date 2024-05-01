@@ -25,6 +25,6 @@ jobs:
         uses: softprops/action-gh-release@v2
         with:
           target_commitish: ${{ github.sha }}
-          name: Auto Release ${{ env.SHORT_SHA }}
+          name: Release ${{ env.SHORT_SHA }}
           tag_name: ${{ env.SHORT_SHA }}
           body_path: changelog.md
