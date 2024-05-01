@@ -148,4 +148,8 @@ I would like to express my deepest gratitude to the people who served in this pu
 
 <!-- image-list: end -->
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=SAWARATSUKI/ServiceLogos&type=Date)](https://star-history.com/#SAWARATSUKI/ServiceLogos&Date)
+
 If there is any inconsistency in the README of each language, the Japanese README will take precedence.

@@ -151,4 +151,8 @@
 
 <!-- image-list: end -->
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=SAWARATSUKI/ServiceLogos&type=Date)](https://star-history.com/#SAWARATSUKI/ServiceLogos&Date)
+
 如果各语言的 README 不一致，则以日语 README 为准。

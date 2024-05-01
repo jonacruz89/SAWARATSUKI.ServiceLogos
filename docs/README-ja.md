@@ -150,4 +150,8 @@ issuesに投稿してください。確認次第作成します。
 
 <!-- image-list: end -->
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=SAWARATSUKI/ServiceLogos&type=Date)](https://star-history.com/#SAWARATSUKI/ServiceLogos&Date)
+
 各言語のREADMEで不整合があった場合は、日本語のREADMEを優先します。
