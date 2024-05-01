@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD026 MD033 MD041 -->
 
-[English README](README.md) | [日本語 README](README-ja.md) | [简体中文 README](README-zhHans.md) | [繁體中文 README](README-zhHant.md) | [Español README](README-es.md) | [README Français](README-fr.md)
+[English README](README.md) | [日本語 README](README-ja.md) | [简体中文 README](README-zhHans.md) | [繁體中文 README](README-zhHant.md) | [Español README](README-es.md) | [README Français](README-fr.md) | [Indonesian README](README-id.md)
 
 # Archive ServiceLogos
 
@@ -141,11 +141,15 @@ I would like to express my deepest gratitude to the people who served in this pu
 | [VisualStudioCode](/VisualStudioCode)                                                    | <img src="../VisualStudioCode/VisualStudioCode.png" alt="VisualStudioCode" width="100" /> <img src="../VisualStudioCode/VisualStudioCodeRound.png" alt="VisualStudioCodeRound" width="100" />                                                                                                                                                             |
 | [Vite](/Vite)                                                                            | <img src="../Vite/Vite.png" alt="Vite" width="100" />                                                                                                                                                                                                                                                                                                     |
 | [Voicemod](/Voicemod)                                                                    | <img src="../Voicemod/Voicemod.png" alt="Voicemod" width="100" />                                                                                                                                                                                                                                                                                         |
-| [Vrchat](/Vrchat)                                                                        | <img src="../Vrchat/VRChat.png" alt="VRChat" width="100" />                                                                                                                                                                                                                                                                                               |
+| [VRChat](/VRChat)                                                                        | <img src="../VRChat/VRChat.png" alt="VRChat" width="100" />                                                                                                                                                                                                                                                                                               |
 | [Vue](/Vue)                                                                              | <img src="../Vue/Vue.png" alt="Vue" width="100" />                                                                                                                                                                                                                                                                                                        |
 | [Wallhack](/Wallhack)                                                                    | <img src="../Wallhack/WALLHACK.png" alt="WALLHACK" width="100" />                                                                                                                                                                                                                                                                                         |
 | [X](/X)                                                                                  | <img src="../X/X.png" alt="X" width="100" />                                                                                                                                                                                                                                                                                                              |
 
 <!-- image-list: end -->
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=SAWARATSUKI/ServiceLogos&type=Date)](https://star-history.com/#SAWARATSUKI/ServiceLogos&Date)
 
 If there is any inconsistency in the README of each language, the Japanese README will take precedence.

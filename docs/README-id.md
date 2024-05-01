@@ -4,76 +4,72 @@
 
 # ServiceLogos
 
-Hola, buenas a todos.
-Este es un repositorio creado por Sawaratsuki para subir logos de diversos servicios.
-
 > [!WARNING]
-> Estos logos no son oficiales.
+> Logo yang ada di sini bukanlah logo resmi.
 
-> [!IMPORTANT]  
-> No se permite bajo ningún concepto el uso de el contenido de este repositorio para el entrenamiento de IA.
+> [!Important]
+> Dalam kondisi apa pun, logo-logo tersebut tidak diizinkan untuk digunakan untuk pembelajaran AI.
 
-# Licencia
+# Lisensi
 
-## Si quieres usar un logo, por favor lee la siguiente sección atentamente
+## Jika Anda ingin menggunakan logo, pastikan Anda membaca bagian ini.
 
 > [!NOTE]
 >
-> ### Resumen:
+> ### Ringkasan:
 >
-> - Eres libre de usar este logo para fines no comerciales y sin ánimo de lucro.
->   Por ejemplo, puedes usarlo para imprimirlo como pegatinas, como iconos para editores, etc.
-> - ¡Por favor, no olvides atribuir los créditos apropiados!
->   Eres libre de modificar el logo, pero debes licenciar la obra derivada bajo la misma licencia que la del logo original.
-> - Si creas algo usando este logo, ¡sería muy motivador que mencionaras a [Sawaratsuki](https://x.com/sawaratsuki1004) al publicarlo!
+> - Anda bebas menggunakan logo ini untuk tujuan non-komersial dan nirlaba. Misalnya, Anda dapat mencetaknya sebagai stiker, sebagai ikon untuk editor, dll.
+> - Tolong berikan kredit yang sesuai! Anda bebas untuk memodifikasi atau me-remixnya, namun Anda harus melisensikan karya baru tersebut di bawah lisensi yang sama dengan logo asli ini.
+> - Jika Anda membuat sesuatu dengan menggunakan logo ini, akan sangat memotivasi jika Anda [menyebutkan SAWATSUKI](https://x.com/sawaratsuki1004) dan mempostingnya!
 
-### Términos
+### Semua bagian
 
-Los logotipos posteriores al `commit[c2cf292]` no están sujetos a la licencia CC BY-NC-SA 4.0.
-Las siguientes condiciones se aplican a los logotipos posteriores al `commit[c2cf292]`.
+**Lisensi CC BY-NC-SA 4.0 tidak diberikan untuk logo setelah ## Commit[c2cf292].**  
+**Untuk logo setelah ## Commit[c2cf292], ketentuan berikut ini berlaku.**
 
-1. El creador de estos logos es Sawaratsuki. No se ha renunciado a los derechos de autor en su totalidad.
-2. Por favor, revisa los puntos siguientes:
-   > - Se recomienda atribuir el crédito apropiado. Es un gran motivador, así que se ruega hacerlo encarecidamente.
-   > - Puedes modificar los logos.
-   > - El uso comercial (como la venta de productos que lleven el logo) está prohibido. Sin embargo, se permite su venta si se cumplen las siguientes condiciones:
-   >   1. Si el representante oficial de cada servicio quiere usarlo con ánimo de lucro
-   >   2. Si se obtiene permiso de Sawaratsuki
-   >      (¡Si descubres algún incumplimiento, por favor contacta con [@Sawaratsuki](https://x.com/sawaratsuki1004) inmediatamente!)
-3. ¡Se pueden crear pegatinas, parches, etc., para uso personal sin permiso explícito!
+1. Pencipta logo-logo ini adalah SAWATSUKI. Hak cipta belum sepenuhnya dilepaskan.
+2. Pastikan hal-hal berikut ini
+   > - Disarankan agar kredit dinyatakan dengan jelas. Ini adalah alat motivasi, jadi mohon.
+   > - Anda boleh mengubah atau me-remix karya ini.
+   > - Dilarang menggunakan karya untuk tujuan komersial (misalnya menjual produk dengan menggunakan logo). Namun, karya tersebut dapat dijual jika hal-hal berikut ini berlaku.
+   >
+   > 1. Jika petugas dari layanan yang bersangkutan ingin menjual produk untuk tujuan komersial
+   > 2. Jika SAWATSUKI telah memberikan izin  
+   >    (Jika Anda menemukan pelanggaran, segera hubungi [@Sawaratsuki] (https://x.com/sawaratsuki1004)!
+3. Pembuatan stiker dan kaos dapat digunakan tanpa izin dalam lingkup penggunaan pribadi!
 
-# ¿Quieres un logo que no está aquí?
+# Saya ingin logo yang tidak ada di sini!
 
-Por favor, añádelo a "Issues". Lo diseñaremos una vez confirmado.
-Dependiendo de nuestros horarios individuales, puede que no podamos responder inmediatamente. Podría llevarnos varios días.
+Silakan kirimkan di #issues. Kami akan membuatnya segera setelah kami mengonfirmasinya.
+Kami mungkin tidak dapat merespons karena jadwal pribadi. Mungkin perlu waktu beberapa hari.
 
 > [!IMPORTANT]  
-> Cuando añadas una "Issue", asegúrate de incluir la etiqueta de "request".
+> Saat mengirimkan issues, pastikan untuk menyertakan tag "request".
 
-# Para los representantes oficiales de cada servicio
+# Untuk pejabat dari layanan yang bersangkutan.
 
-Por favor envía un [mensaje directo a SAWATSUKI](https://x.com/sawaratsuki1004) para solicitar la eliminación de un logo.
-Lo eliminaremos de inmediato.
-Si están interesados en comercializar su logo de forma oficial, por favor envíen un [mensaje directo a SAWATSUKI](https://x.com/sawaratsuki1004) de igual manera!
+Jika Anda ingin meminta penghapusan logo, silakan hubungi [saya melalui DM](https://x.com/sawaratsuki1004)  
+Kami akan segera menghapusnya!  
+Jika Anda ingin menjualnya secara resmi, silakan hubungi [saya melalui DM](https://x.com/sawaratsuki1004) juga!
 
-# Herramientas usadas para el diseño
+# Alat yang digunakan untuk mendesain
 
 - Photoshop / Illustrator
-- Fuente [Eureka Font]
-- La motivación y sentimientos de Sawaratsuki
-- El feedback y comentarios de todo el mundo
+- Font [Font Eureka].
+- Motivasi dan perasaan Sawaratsuki
+- Kiriman umpan balik Anda.
 
-# Aclaraciones y agradecimientos
+# Ucapan terima kasih
 
-Estos logotipos son obras derivadas.  
-No son mejores que los logotipos utilizados por los respectivos servicios oficiales.  
-Queremos expresar nuestro más profundo agradecimiento a los contributores que han publicado aquí sus logos.
+Logo-logo ini adalah karya turunan.  
+Mereka tidak lebih baik dari logo yang digunakan oleh masing-masing layanan resmi.  
+Saya ingin mengucapkan terima kasih yang sebesar-besarnya kepada orang-orang yang telah membantu publikasi ini.
 
-## Lista de imágenes
+# List gambar
 
 <!-- image-list: start -->
 
-| Nombre                                                                                   | Imagen                                                                                                                                                                                                                                                                                                                                                    |
+| Name                                                                                     | Image                                                                                                                                                                                                                                                                                                                                                     |
 | ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [403Forbidden](/403Forbidden)                                                            | <img src="../403Forbidden/Forbidden.png" alt="Forbidden" width="100" />                                                                                                                                                                                                                                                                                   |
 | [404Notfound](/404Notfound)                                                              | <img src="../404Notfound/NotFound.png" alt="NotFound" width="100" />                                                                                                                                                                                                                                                                                      |
@@ -150,4 +146,4 @@ Queremos expresar nuestro más profundo agradecimiento a los contributores que h
 
 <!-- image-list: end -->
 
-En caso de encontrar incoherencias en los README de los distintos idiomas, se debe tomar el README en japonés como referencia.
+Jika terdapat ketidakkonsistenan dalam README masing-masing bahasa, maka README bahasa Jepang yang akan diutamakan.
