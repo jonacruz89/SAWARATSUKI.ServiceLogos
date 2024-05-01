@@ -4,77 +4,76 @@
 
 # ServiceLogos
 
-你好，亦或是晚上好。
-
-这里是用来管理由さわらつき（SAWARATSUKI）制作的各种徽标（Logo）的仓库。
+Hola, buenas a todos.
+Este es un repositorio creado por Sawaratsuki para subir logos de diversos servicios.
 
 > [!WARNING]
-> 这里提供的徽标并非官方徽标。
+> Estos logos no son oficiales.
 
-> [!IMPORTANT]
-> 在任何情况下都不允许将此徽标用于 AI 学习。
+> [!IMPORTANT]  
+> No se permite bajo ningún concepto el uso de el contenido de este repositorio para el entrenamiento de IA.
 
-# 许可证
+# Licencia
 
-## 想要使用徽标的话，请务必认真阅读本节
+## Si quieres usar un logo, por favor lee la siguiente sección atentamente
 
 > [!NOTE]
 >
-> ### 概述
+> ### Resumen:
 >
-> - 只要是非盈利目的就可以自由使用这里的徽标。
->   比如说自己打印成贴纸自用或者是用作编辑器的图标之类的。
-> - 请注明正确的来源！
->   可以适当进行修改，但是新徽标的许可协议要和原来的徽标保持一致。
-> - 如果你使用了这里的徽标来做了一些什么东西的话，能够发推特提及[@さわらつき](https://x.com/sawaratsuki1004)，我会非常兴奋的！
+> - Eres libre de usar este logo para fines no comerciales y sin ánimo de lucro.
+>   Por ejemplo, puedes usarlo para imprimirlo como pegatinas, como iconos para editores, etc.
+> - ¡Por favor, no olvides atribuir los créditos apropiados!
+>   Eres libre de modificar el logo, pero debes licenciar la obra derivada bajo la misma licencia que la del logo original.
+> - Si creas algo usando este logo, ¡sería muy motivador que mencionaras a [Sawaratsuki](https://x.com/sawaratsuki1004) al publicarlo!
 
-### 细则
+### Términos
 
-**`Commit[c2cf292]` 之后的徽标未获得 CC BY-NC-SA 4.0 许可。**  
-**以下条款适用于提交后的徽标 `Commit[c2cf292]`。**
+Los logotipos posteriores al `commit[c2cf292]` no están sujetos a la licencia CC BY-NC-SA 4.0.
+Las siguientes condiciones se aplican a los logotipos posteriores al `commit[c2cf292]`.
 
-1. 这些徽标的创作者是**さわらつき**。这并不意味着版权已被完全放弃。
-2. 请检查以下事项。
-   > - 推荐注明来源。这会给我动力，所以请尝试一下。
-   > - 可以修改和重新混合。
-   > - 禁止用于商业目的（例如销售标有此徽标的产品等）。 但是，如果符合以下条件，则可以进行销售。
-   >   1. 如果各服务的官方想要将其用于商业目的销售
-   >   2. 如果 さわらつき 允许的话
-   >      （如发现违规行为，请立即联系推特[@さわらつき](https://x.com/sawaratsuki1004)！）
-3. 未经许可，将贴纸、便签等用于个人使用是没有问题的！
+1. El creador de estos logos es Sawaratsuki. No se ha renunciado a los derechos de autor en su totalidad.
+2. Por favor, revisa los puntos siguientes:
+   > - Se recomienda atribuir el crédito apropiado. Es un gran motivador, así que se ruega hacerlo encarecidamente.
+   > - Puedes modificar los logos.
+   > - El uso comercial (como la venta de productos que lleven el logo) está prohibido. Sin embargo, se permite su venta si se cumplen las siguientes condiciones:
+   >   1. Si el representante oficial de cada servicio quiere usarlo con ánimo de lucro
+   >   2. Si se obtiene permiso de Sawaratsuki
+   >      (¡Si descubres algún incumplimiento, por favor contacta con [@Sawaratsuki](https://x.com/sawaratsuki1004) inmediatamente!)
+3. ¡Se pueden crear pegatinas, parches, etc., para uso personal sin permiso explícito!
 
-# 如果这里没有想要的徽标
+# ¿Quieres un logo que no está aquí?
 
-请提交 issues。我确认了之后就会设计制作徽标。
-由于个人时间安排等因素，可能会在几天之后才能对你的请求做出回应。
+Por favor, añádelo a "Issues". Lo diseñaremos una vez confirmado.
+Dependiendo de nuestros horarios individuales, puede que no podamos responder inmediatamente. Podría llevarnos varios días.
 
-> [!IMPORTANT]
-> 提交 issues 时请务必带上 request 的标签。
+> [!IMPORTANT]  
+> Cuando añadas una "Issue", asegúrate de incluir la etiqueta de "request".
 
-# 致各服务的官方
+# Para los representantes oficiales de cada servicio
 
-如果想要申请移除徽标，请通过推特[私信联系@さわらつき](https://x.com/sawaratsuki1004)。
-我将立即为您移除。
-如果您想要进行官方的销售，请同样地推特[私信联系@さわらつき](https://x.com/sawaratsuki1004)。
+Por favor envía un [mensaje directo a SAWATSUKI](https://x.com/sawaratsuki1004) para solicitar la eliminación de un logo.
+Lo eliminaremos de inmediato.
+Si están interesados en comercializar su logo de forma oficial, por favor envíen un [mensaje directo a SAWATSUKI](https://x.com/sawaratsuki1004) de igual manera!
 
-# 设计工具
+# Herramientas usadas para el diseño
 
 - Photoshop / Illustrator
-- 字体：【ユールカフォント】
-- さわらつき的创作热情
-- 大家的反馈帖子
+- Fuente [Eureka Font]
+- La motivación y sentimientos de Sawaratsuki
+- El feedback y comentarios de todo el mundo
 
-# 致谢
+# Aclaraciones y agradecimientos
 
-这些徽标是衍生作品。  
-没有什么比官方原生徽标更好的了。  
-我在此对在此公开仓库中出力的各方表示最诚挚的感谢。
+Estos logotipos son obras derivadas.  
+No son mejores que los logotipos utilizados por los respectivos servicios oficiales.  
+Queremos expresar nuestro más profundo agradecimiento a los contributores que han publicado aquí sus logos.
 
-# 图片列表
+## Lista de imágenes
 
 <!-- image-list: start -->
 
-| 名称                                                                                     | 图片                                                                                                                                                                                                                                                                                                                                                      |
+| Nombre                                                                                   | Imagen                                                                                                                                                                                                                                                                                                                                                    |
 | ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [403Forbidden](/403Forbidden)                                                            | <img src="../403Forbidden/Forbidden.png" alt="Forbidden" width="100" />                                                                                                                                                                                                                                                                                   |
 | [404Notfound](/404Notfound)                                                              | <img src="../404Notfound/NotFound.png" alt="NotFound" width="100" />                                                                                                                                                                                                                                                                                      |
@@ -151,8 +150,4 @@
 
 <!-- image-list: end -->
 
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=SAWARATSUKI/ServiceLogos&type=Date)](https://star-history.com/#SAWARATSUKI/ServiceLogos&Date)
-
-如果各语言的 README 不一致，则以日语 README 为准。
+En caso de encontrar incoherencias en los README de los distintos idiomas, se debe tomar el README en japonés como referencia.

@@ -1,80 +1,80 @@
 <!-- markdownlint-disable MD026 MD033 MD041 -->
 
-[English README](README.md) | [日本語 README](README-ja.md) | [简体中文 README](README-zhHans.md) | [繁體中文 README](README-zhHant.md) | [Español README](README-es.md) | [README Français](README-fr.md)
+[English README](README.md) | [日本語 README](README-ja.md) | [简体中文 README](README-zhHans.md) | [繁體中文 README](README-zhHant.md) | [Español README](README-es.md) | [README Français](README-fr.md) | [Hindi README](README-hi.md)
 
 # ServiceLogos
 
-你好，亦或是晚上好。
-
-这里是用来管理由さわらつき（SAWARATSUKI）制作的各种徽标（Logo）的仓库。
+Shubh prabhaat,
+Is repository me alag alag services ke liye Sawaratsuki dwara daale gaye logo hai.
 
 > [!WARNING]
-> 这里提供的徽标并非官方徽标。
+> Ye logos official nahi hai.
 
-> [!IMPORTANT]
-> 在任何情况下都不允许将此徽标用于 AI 学习。
+> [!Important]
+> Kisi bhi halat me in logos ka AI learning ke liye use karna mana hai.
 
-# 许可证
+# License
 
-## 想要使用徽标的话，请务必认真阅读本节
+## Agar logo use karna hai to aage dhyaan se padhe.
 
 > [!NOTE]
 >
-> ### 概述
+> ### Saaransh:
 >
-> - 只要是非盈利目的就可以自由使用这里的徽标。
->   比如说自己打印成贴纸自用或者是用作编辑器的图标之类的。
-> - 请注明正确的来源！
->   可以适当进行修改，但是新徽标的许可协议要和原来的徽标保持一致。
-> - 如果你使用了这里的徽标来做了一些什么东西的话，能够发推特提及[@さわらつき](https://x.com/sawaratsuki1004)，我会非常兴奋的！
+> - In logos ka istemaal aap aise kar sakte hai jisse apko koi laabh ya paisa na mile.
+>   Jaise ki stickers ke roop mein print karke ya editors ke icons ke roop mein, aap inka istemal kar sakte hain.
+> - Credits dena bilkul zaroori hai!
+>   Aap ise modify ya remix kar sakte hai, lekin aapko us naye logo ko original logo ke saath ek hi license ke antargat license karna hoga.
+> - Agar aap is logo ka istemal karke kuch banate hai, toh jab post karte hai tab [Sawaratsuki](https://x.com/sawaratsuki1004) ko mention karna motivation dega!
 
-### 细则
+### Sab items
 
-**`Commit[c2cf292]` 之后的徽标未获得 CC BY-NC-SA 4.0 许可。**  
-**以下条款适用于提交后的徽标 `Commit[c2cf292]`。**
+**CC BY-NC-SA 4.0 license ## Commit[c2cf292] ke baad nahi diye gaye hai**  
+**## Commit[c2cf292] ke baad yah niyam lagu honge**
 
-1. 这些徽标的创作者是**さわらつき**。这并不意味着版权已被完全放弃。
-2. 请检查以下事项。
-   > - 推荐注明来源。这会给我动力，所以请尝试一下。
-   > - 可以修改和重新混合。
-   > - 禁止用于商业目的（例如销售标有此徽标的产品等）。 但是，如果符合以下条件，则可以进行销售。
-   >   1. 如果各服务的官方想要将其用于商业目的销售
-   >   2. 如果 さわらつき 允许的话
-   >      （如发现违规行为，请立即联系推特[@さわらつき](https://x.com/sawaratsuki1004)！）
-3. 未经许可，将贴纸、便签等用于个人使用是没有问题的！
+1. In logo ko SAWATSUKI ne banaya hai. Copyright puri tarah se hataya nahi gaya hai.
+2. In baato ka dhyaan rakhe
+   > - Puri tarah se credit dena acha rahega , isse utsah badhta hai.
+   > - Aap in logos ko remix ya badal sakte hai.
+   > - In logos se kisi bhi tarah se paisa kamana mana hai ( Jaise ki in logos ko use karke saman bechna). Magar aap in logos ko kuch conditions me bech sakte hai.
+   >
+   > 1. "Jab us service ka official product ko commercial purposes ke liye bechna chahta hai."
+   > 2. Jab Sawaratsuki aapko agya de
+   >    (Agar aapko koi iska palan nahi karte hue milta hai to [@Sawaratsuki](https://x.com/sawaratsuki1004) se turant sampark kare)
+3. Logos ko sticker banake personal use karne pe koi manahi nahi hai.
 
-# 如果这里没有想要的徽标
+# Koi aisa logo chahiye jo yaha nahi hai ?
 
-请提交 issues。我确认了之后就会设计制作徽标。
-由于个人时间安排等因素，可能会在几天之后才能对你的请求做出回应。
+Aap is repo ke issues me bata dijiye , confirm karne ke baad ham bana denge.
+Har kisi ke schedules ke anusaar, hum turant jawaab nahi de sakte. Kuch dino tak bhi lag sakta hai.
 
-> [!IMPORTANT]
-> 提交 issues 时请务必带上 request 的标签。
+> [!IMPORTANT]  
+> Jab issue post kar rahe ho to request tag lagana na bhule
 
-# 致各服务的官方
+# Services ke officials ke liye
 
-如果想要申请移除徽标，请通过推特[私信联系@さわらつき](https://x.com/sawaratsuki1004)。
-我将立即为您移除。
-如果您想要进行官方的销售，请同样地推特[私信联系@さわらつき](https://x.com/sawaratsuki1004)。
+[SAWATSUKI](https://x.com/sawaratsuki1004) ko ek message bhejiye,
+Ham usse turant hata denge.
+Agar aapko apne products bechne hai to uske liye bhi [SAWATSUKI](https://x.com/sawaratsuki1004) ko ek message bhej dijiye.
 
-# 设计工具
+# Designing ke liye istemal kiye gaye tools
 
 - Photoshop / Illustrator
-- 字体：【ユールカフォント】
-- さわらつき的创作热情
-- 大家的反馈帖子
+- Font [Eureka Font]
+- Sawaratsuki ka utsah
+- Aapke vichar ke tweets (Bohot dhanyavaad!)
 
-# 致谢
+# Acknowledgments
 
-这些徽标是衍生作品。  
-没有什么比官方原生徽标更好的了。  
-我在此对在此公开仓库中出力的各方表示最诚挚的感谢。
+Ye logos naye creations hain.  
+Har officer ke dwaara istemal kiye gaye logos se behtar kuch nahi hai.  
+Hum is publication mein seva karne waalon ke prati apni gehri shukriya vyakt karna chaahenge.
 
-# 图片列表
+## Logos ka list
 
 <!-- image-list: start -->
 
-| 名称                                                                                     | 图片                                                                                                                                                                                                                                                                                                                                                      |
+| Name                                                                                     | Image                                                                                                                                                                                                                                                                                                                                                     |
 | ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [403Forbidden](/403Forbidden)                                                            | <img src="../403Forbidden/Forbidden.png" alt="Forbidden" width="100" />                                                                                                                                                                                                                                                                                   |
 | [404Notfound](/404Notfound)                                                              | <img src="../404Notfound/NotFound.png" alt="NotFound" width="100" />                                                                                                                                                                                                                                                                                      |
@@ -151,8 +151,4 @@
 
 <!-- image-list: end -->
 
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=SAWARATSUKI/ServiceLogos&type=Date)](https://star-history.com/#SAWARATSUKI/ServiceLogos&Date)
-
-如果各语言的 README 不一致，则以日语 README 为准。
+Agar kisi bhasa ka README me taal mel hai , to Japanese README ko sabse sahi mana jayega.

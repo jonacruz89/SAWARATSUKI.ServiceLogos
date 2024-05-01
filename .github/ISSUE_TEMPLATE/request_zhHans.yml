@@ -1,0 +1,47 @@
+name: 请求logo
+description: 请求一个没有被添加过的logo
+title: "[Request] "
+labels: ["request", "enhancement"]
+assignees:
+  - SAWARATSUKI
+body:
+  - type: markdown
+    attributes:
+      value: |
+        请提交issues。当请求被确认了之后就会开始设计制作logo。
+        由于个人时间安排等因素，制作logo可能需要几天时间。
+
+  - type: checkboxes
+    id: duplicate-check
+    attributes:
+      label: 检查重复
+      description: 确认此请求没有与其他的issues重合。
+      options:
+        - label: Checked
+          required: true
+
+  - type: input
+    id: service-name
+    attributes:
+      label: 服务名称
+      description: Logo的服务名称。
+      placeholder: 例如：GitHub
+    validations:
+      required: true
+
+  - type: input
+    id: service-name-ja
+    attributes:
+      label: 服务名称的日语读法
+      description: 如何用日语阅读您想要添加的服务的名称。
+      placeholder: 例如：ギットハブ
+    validations:
+      required: true
+
+  - type: textarea
+    id: comment
+    attributes:
+      label: 评论/补充
+      description: 请在这里添加相对应的图片。
+    validations:
+      required: false
