@@ -5,6 +5,9 @@ from pathlib import Path
 from typing import TypeAlias
 from urllib.parse import quote
 
+from pathspec import PathSpec
+from pathspec.patterns.gitwildmatch import GitWildMatchPattern
+
 FolderDict: TypeAlias = dict[str, list[Path]]
 
 
@@ -29,6 +32,11 @@ LOCALE: dict[str, dict[str, str]] = {
     "es": {"name": "Nombre", "image": "Imagen"},
 }
 
+GIT_IGNORE = PathSpec.from_lines(
+    GitWildMatchPattern,
+    (ROOT_FOLDER / ".gitignore").read_text("u8").splitlines(),
+)
+
 
 def l5(n: str | None, k: str) -> str:
     if n:
@@ -46,12 +54,35 @@ def md_escape(txt: str) -> str:
     return txt
 
 
+def to_root_relative(p: Path) -> str:
+    return p.relative_to(ROOT_FOLDER).as_posix()
+
+
+def is_in_gitignore(p: Path) -> bool:
+    return GIT_IGNORE.match_file(p)
+
+
 def find_image_folders() -> FolderDict:
-    return {
-        x.name: images
-        for x in ROOT_FOLDER.iterdir()
-        if x.is_dir() and (images := list(x.glob("*.png")))
-    }
+    folders: FolderDict = {}
+
+    for x in ROOT_FOLDER.iterdir():
+        if (
+            (not x.is_dir())
+            or (is_in_gitignore(x))
+            or (not (images := list(x.glob("**/*.png"))))
+        ):
+            continue
+
+        # ensure matched paths are not folders ends with .png
+        images = (x for x in images if not (x.is_dir() or is_in_gitignore(x)))
+        for image in images:
+            name = to_root_relative(image.parent)
+            if name not in folders:
+                folders[name] = [image]
+            else:
+                folders[name].append(image)
+
+    return folders
 
 
 def find_readme() -> list[ReadMeInfo]:
@@ -72,7 +103,7 @@ def generate_markdown(folders: FolderDict, locale: str | None = None) -> str:
     def get_image_tags(images: list[Path]) -> str:
         return " ".join(
             (
-                f'<img src="../{quote(x.relative_to(ROOT_FOLDER).as_posix())}" '
+                f'<img src="../{quote(to_root_relative(x))}" '
                 f'alt="{quote(x.stem)}" width="100" />'
             )
             for x in images
@@ -106,7 +137,7 @@ def replace_file(content: str, inner: str) -> str:
         raise ValueError("Invalid table start or end mark")
 
     pfx = content[: start_index + len(START)]
-    sfx = content[end_index :]
+    sfx = content[end_index:]
     return f"{pfx}\n\n{inner}\n\n{sfx}"
 
 

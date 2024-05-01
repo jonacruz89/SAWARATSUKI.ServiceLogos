@@ -3,7 +3,7 @@ name = "ServiceLogos"
 version = "0"
 description = ""
 authors = []
-dependencies = []
+dependencies = ["pathspec>=0.12.1"]
 requires-python = ">=3.10"
 readme = "docs/README.md"
 license = { text = "CC BY-NC-SA 4.0" }
