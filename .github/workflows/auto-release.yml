@@ -1,0 +1,30 @@
+name: Auto Release
+
+permissions:
+  contents: write
+
+on:
+  push:
+    paths:
+      - "**.png"
+  workflow_dispatch:
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+          submodules: true
+      - name: Generate Changelog
+        run: |-
+          echo "SHORT_SHA=$(echo $GITHUB_SHA | cut -c 1-7)" >> $GITHUB_ENV
+          python3 docs/scripts/generate-changelog.py
+      - if: ${{ hashFiles('changelog.md') != '' }}
+        uses: softprops/action-gh-release@v2
+        with:
+          target_commitish: ${{ github.sha }}
+          name: Auto Release ${{ env.SHORT_SHA }}
+          tag_name: ${{ env.SHORT_SHA }}
+          body_path: changelog.md
