@@ -1,4 +1,3 @@
-import re
 from contextlib import suppress
 from dataclasses import dataclass
 from pathlib import Path
@@ -89,7 +88,7 @@ def find_readme() -> list[ReadMeInfo]:
     return [
         ReadMeInfo(
             path=x,
-            locale=(n[n.index("-") + 1] if "-" in (n := x.stem) else "en"),
+            locale=(n[n.index("-") + 1 :] if "-" in (n := x.stem) else "en"),
         )
         for x in DOCS_FOLDER.glob("README*.md")
     ]
