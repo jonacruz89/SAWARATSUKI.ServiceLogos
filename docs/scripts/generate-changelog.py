@@ -77,6 +77,7 @@ def find_parent_release() -> Release | None:
     if release.tag_name.endswith(tag_suffix):
         return release
 
+    print("Latest release is not on the same branch, finding parent in release list...")
     for page in range(1, 4):  # find 3 pages max
         release_list = gh.rest.repos.list_releases(*gh_repo, page=page).parsed_data
         if not release_list:
