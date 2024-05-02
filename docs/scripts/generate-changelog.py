@@ -125,11 +125,12 @@ def main():
 
     if not has_parent_release:
         changelog = f"Initial release.\n\n{changelog}"
-    parent_sha_short = parent_sha[:7]
-    changelog += (
-        f"\n\n**Full Changelog**: "
-        f"https://github.com/{gh_repo_str}/compare/{parent_sha_short}...{gh_sha_short}"
-    )
+    else:
+        parent_sha_short = parent_sha[:7]
+        changelog += (
+            f"\n\n**Full Changelog**: "
+            f"https://github.com/{gh_repo_str}/compare/{parent_sha_short}...{gh_sha_short}"
+        )
 
     set_output("should_run", "true")
     set_output("name", f"Release {gh_sha_short} on {gh_ref_name}")
