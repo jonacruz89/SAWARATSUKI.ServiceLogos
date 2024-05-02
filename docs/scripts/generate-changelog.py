@@ -80,7 +80,7 @@ def main():
             has_parent_release = False
             parent_sha = run(["git", "rev-parse", f"{gh_sha}^"])
 
-    print(f"Comparing current commit with {parent_sha}")
+    print(f"Comparing {parent_sha}..{gh_sha}")
     order = list(NAME.keys())
     try:
         diff = run(
@@ -90,8 +90,7 @@ def main():
                 "--name-status",
                 "--ignore-submodules=all",
                 f"--diff-filter={''.join(order)}",
-                # @actions/checkout might checkout the right commit already
-                f"{parent_sha}..",  # {gh_sha}",
+                f"{parent_sha}..{gh_sha}",
             ],
         )
     except RuntimeError as e:
