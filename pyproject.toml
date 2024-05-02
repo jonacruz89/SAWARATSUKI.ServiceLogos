@@ -16,6 +16,7 @@ dev = ["ruff>=0.4.2", "basedpyright>=1.10.4"]
 
 [tool.pdm.scripts]
 generate = "python3 docs/scripts/generate-images-table.py"
+release = "python3 docs/scripts/generate-changelog.py"
 
 [tool.basedpyright]
 pythonVersion = "3.10"

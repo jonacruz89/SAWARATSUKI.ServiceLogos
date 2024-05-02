@@ -58,6 +58,7 @@ def main():
 
     print(f"Getting latest release on branch {gh_ref_name} by tag name")
     # check latest release first
+    has_parent_release = True
     release = gh.rest.repos.get_latest_release(*gh_repository).parsed_data
     if release.tag_name.endswith(tag_suffix):
         parent_sha = release.target_commitish
@@ -68,6 +69,7 @@ def main():
                 break
         else:
             print("No release satisfied, will compare this commit with parent commit.")
+            has_parent_release = False
             parent_sha = run(["git", "rev-parse", f"{gh_sha}^"])
 
     print(f"Comparing {parent_sha}..{gh_sha}")
@@ -96,14 +98,17 @@ def main():
     )
     if not diff_spiltted:
         print("No image changes detected.")
-        return
-
-    changelog = "\n".join(
-        [
-            f"- **{NAME.get(status)}**: {' -> '.join(f'`{x}`' for x in rest)}"
-            for status, *rest in diff_spiltted
-        ],
-    )
+        if has_parent_release:
+            return
+        print("Should create initial release.")
+        changelog = "Initial release."
+    else:
+        changelog = "\n".join(
+            [
+                f"- **{NAME.get(status)}**: {' -> '.join(f'`{x}`' for x in rest)}"
+                for status, *rest in diff_spiltted
+            ],
+        )
 
     set_output("changed", "true")
     set_output("name", f"Release {gh_sha_short} on {gh_ref_name}")

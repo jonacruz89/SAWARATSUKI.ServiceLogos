@@ -28,7 +28,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |-
           pdm install
-          python3 docs/scripts/generate-changelog.py
+          pdm run release
 
       - if: ${{ steps.generate-changelog.outputs.changed }}
         uses: softprops/action-gh-release@v2
