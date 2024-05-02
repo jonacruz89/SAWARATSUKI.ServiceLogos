@@ -17,14 +17,23 @@ jobs:
         with:
           fetch-depth: 2
           submodules: true
+
+      - uses: pdm-project/setup-pdm@v3
+        with:
+          cache: true
+
       - name: Generate Changelog
+        id: generate-changelog
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |-
-          echo "SHORT_SHA=$(echo $GITHUB_SHA | cut -c 1-7)" >> $GITHUB_ENV
+          pdm install
           python3 docs/scripts/generate-changelog.py
-      - if: ${{ hashFiles('changelog.md') != '' }}
+
+      - if: ${{ steps.generate-changelog.outputs.changed }}
         uses: softprops/action-gh-release@v2
         with:
           target_commitish: ${{ github.sha }}
-          name: Release ${{ env.SHORT_SHA }}
-          tag_name: ${{ env.SHORT_SHA }}
-          body_path: changelog.md
+          name: ${{ steps.generate-changelog.outputs.name }}
+          tag_name: ${{ steps.generate-changelog.outputs.tag_name }}
+          body: ${{ steps.generate-changelog.outputs.body }}
