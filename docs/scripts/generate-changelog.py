@@ -9,6 +9,7 @@ if os.getenv("GITHUB_ACTIONS") != "true":
 import locale
 from subprocess import DEVNULL, PIPE, Popen
 from typing import cast
+from uuid import uuid4
 
 from githubkit import GitHub
 
@@ -22,20 +23,23 @@ NAME = {
     "D": "Deleted",
 }
 
-gh = GitHub(os.getenv("GITHUB_TOKEN", ""))
-gh_sha = os.getenv("GITHUB_SHA", "")
+gh = GitHub(os.environ["GITHUB_TOKEN"])
+gh_sha = os.environ["GITHUB_SHA"]
 gh_sha_short = gh_sha[:7]
-gh_ref_name = os.getenv("GITHUB_REF_NAME", "")
-gh_repo_str = os.getenv("GITHUB_REPOSITORY", "")
+gh_ref_name = os.environ["GITHUB_REF_NAME"]
+gh_repo_str = os.environ["GITHUB_REPOSITORY"]
 gh_repo = cast(
     tuple[str, str],
     tuple(gh_repo_str.split("/", 1)),
 )
+gh_output_path = os.environ["GITHUB_OUTPUT"]
 
 
 def set_output(key: str, value: str):
-    value = value.replace("%", "%25").replace("\n", "%0A").replace("\r", "%0D")
-    print(f"::set-output name={key}::{value}")
+    delimiter = f"ghadelimiter_{uuid4()}"
+    string = f"{key}<<{delimiter}{os.linesep}{value}{os.linesep}{delimiter}"
+    with open(gh_output_path, "a", encoding="u8") as f:  # noqa: PTH123
+        f.write(string)
 
 
 def decode(s: bytes) -> str:
