@@ -26,9 +26,10 @@ gh = GitHub(os.getenv("GITHUB_TOKEN", ""))
 gh_sha = os.getenv("GITHUB_SHA", "")
 gh_sha_short = gh_sha[:7]
 gh_ref_name = os.getenv("GITHUB_REF_NAME", "")
-gh_repository = cast(
+gh_repo_str = os.getenv("GITHUB_REPOSITORY", "")
+gh_repo = cast(
     tuple[str, str],
-    tuple(os.getenv("GITHUB_REPOSITORY", "").split("/", 1)),
+    tuple(gh_repo_str.split("/", 1)),
 )
 
 
@@ -67,11 +68,11 @@ def main():
     print(f"Getting latest release on branch {gh_ref_name} by tag name")
     # check latest release first
     has_parent_release = True
-    release = gh.rest.repos.get_latest_release(*gh_repository).parsed_data
+    release = gh.rest.repos.get_latest_release(*gh_repo).parsed_data
     if release.tag_name.endswith(tag_suffix):
         parent_sha = release.target_commitish
     else:
-        for release in gh.rest.repos.list_releases(*gh_repository).parsed_data:
+        for release in gh.rest.repos.list_releases(*gh_repo).parsed_data:
             if release.tag_name.endswith(tag_suffix):
                 parent_sha = release.target_commitish
                 break
@@ -94,7 +95,6 @@ def main():
             ],
         )
     except RuntimeError as e:
-        # traceback.print_exc()
         print(e)
         # changelog = "Failed to get difference between parent release."
         exit(1)
@@ -125,6 +125,11 @@ def main():
 
     if not has_parent_release:
         changelog = f"Initial release.\n\n{changelog}"
+    parent_sha_short = parent_sha[:7]
+    changelog += (
+        f"\n\n**Full Changelog**: "
+        f"https://github.com/{gh_repo_str}/compare/{parent_sha_short}...{gh_sha_short}"
+    )
 
     set_output("should_run", "true")
     set_output("name", f"Release {gh_sha_short} on {gh_ref_name}")
