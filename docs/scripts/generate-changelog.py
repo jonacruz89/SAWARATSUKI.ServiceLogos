@@ -80,42 +80,50 @@ def main():
             has_parent_release = False
             parent_sha = run(["git", "rev-parse", f"{gh_sha}^"])
 
-    print(f"Comparing {parent_sha}..{gh_sha}")
+    print(f"Comparing current commit with {parent_sha}")
     order = list(NAME.keys())
-    diff = run(
-        [
-            "git",
-            "diff",
-            "--name-status",
-            "--ignore-submodules=all",
-            f"--diff-filter={''.join(order)}",
-            f"{parent_sha}..{gh_sha}",
-        ],
-    )
-    diff_spiltted = sorted(
-        [
-            [splitted[0][0], *splitted[1:]]
-            for line in diff.splitlines()
-            if (
-                line
-                and len(splitted := line.split("\t")) > 1
-                and splitted[1].endswith(".png")
-            )
-        ],
-        key=lambda x: order.index(x[0]),
-    )
-    if not diff_spiltted:
-        print("No image changes detected.")
-        if has_parent_release:
-            return
-        print("Should create initial release.")
+    try:
+        diff = run(
+            [
+                "git",
+                "diff",
+                "--name-status",
+                "--ignore-submodules=all",
+                f"--diff-filter={''.join(order)}",
+                # @actions/checkout might checkout the right commit already
+                f"{parent_sha}..",  # {gh_sha}",
+            ],
+        )
+    except RuntimeError as e:
+        # traceback.print_exc()
+        print(e)
+        # changelog = "Failed to get difference between parent release."
+        exit(1)
+    else:
+        diff_spiltted = sorted(
+            [
+                [splitted[0][0], *splitted[1:]]
+                for line in diff.splitlines()
+                if (
+                    line
+                    and len(splitted := line.split("\t")) > 1
+                    and splitted[1].endswith(".png")
+                )
+            ],
+            key=lambda x: order.index(x[0]),
+        )
+        if not diff_spiltted:
+            print("No image changes detected.")
+            if has_parent_release:
+                return
+            print("Should create initial release.")
+        changelog = "\n".join(
+            [
+                f"- **{NAME.get(status)}**: {' -> '.join(f'`{x}`' for x in rest)}"
+                for status, *rest in diff_spiltted
+            ],
+        )
 
-    changelog = "\n".join(
-        [
-            f"- **{NAME.get(status)}**: {' -> '.join(f'`{x}`' for x in rest)}"
-            for status, *rest in diff_spiltted
-        ],
-    )
     if not has_parent_release:
         changelog = f"Initial release.\n\n{changelog}"
 
