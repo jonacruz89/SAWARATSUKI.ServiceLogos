@@ -101,16 +101,17 @@ def main():
         if has_parent_release:
             return
         print("Should create initial release.")
-        changelog = "Initial release."
-    else:
-        changelog = "\n".join(
-            [
-                f"- **{NAME.get(status)}**: {' -> '.join(f'`{x}`' for x in rest)}"
-                for status, *rest in diff_spiltted
-            ],
-        )
 
-    set_output("changed", "true")
+    changelog = "\n".join(
+        [
+            f"- **{NAME.get(status)}**: {' -> '.join(f'`{x}`' for x in rest)}"
+            for status, *rest in diff_spiltted
+        ],
+    )
+    if not has_parent_release:
+        changelog = f"Initial release.\n\n{changelog}"
+
+    set_output("should_run", "true")
     set_output("name", f"Release {gh_sha_short} on {gh_ref_name}")
     set_output("tag_name", f"{gh_sha_short}{tag_suffix}")
     set_output("body", changelog)

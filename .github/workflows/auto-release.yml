@@ -30,7 +30,7 @@ jobs:
           pdm install
           pdm run release
 
-      - if: ${{ steps.generate-changelog.outputs.changed }}
+      - if: ${{ steps.generate-changelog.outputs.should_run }}
         uses: softprops/action-gh-release@v2
         with:
           target_commitish: ${{ github.sha }}
