@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD026 MD033 MD041 -->
 
-[English README](README.md) | [日本語 README](README-ja.md) | [简体中文 README](README-zhHans.md) | [繁體中文 README](README-zhHant.md) | [Español README](README-es.md) | [README Français](README-fr.md)
+[English README](README.md) | [日本語 README](README-ja.md) | [简体中文 README](README-zhHans.md) | [繁體中文 README](README-zhHant.md) | [Español README](README-es.md) | [README Français](README-fr.md) | [Indonesian README](README-id.md)
 
 # Archive ServiceLogos
 
@@ -117,6 +117,7 @@ I would like to express my deepest gratitude to the people who served in this pu
 | [Node\.js](/Node.js)                                                                     | <img src="../Node.js/Node.js.png" alt="Node.js" width="100" />                                                                                                                                                                                                                                                                                            |
 | [NullPointerException](/NullPointerException)                                            | <img src="../NullPointerException/NullPointerException.png" alt="NullPointerException" width="100" />                                                                                                                                                                                                                                                     |
 | [Photoshop](/Photoshop)                                                                  | <img src="../Photoshop/Photoshop.png" alt="Photoshop" width="100" />                                                                                                                                                                                                                                                                                      |
+| [PHP](/PHP)                                                                              | <img src="../PHP/PHP_fix.png" alt="PHP_fix" width="100" />                                                                                                                                                                                                                                                                                                |
 | [Python](/Python)                                                                        | <img src="../Python/Python.png" alt="Python" width="100" />                                                                                                                                                                                                                                                                                               |
 | [Qwik\.js](/Qwik.js)                                                                     | <img src="../Qwik.js/Qwik.png" alt="Qwik" width="100" />                                                                                                                                                                                                                                                                                                  |
 | [RaspberryPi](/RaspberryPi)                                                              | <img src="../RaspberryPi/Raspberry%20Pi.png" alt="Raspberry%20Pi" width="100" />                                                                                                                                                                                                                                                                          |
@@ -147,5 +148,9 @@ I would like to express my deepest gratitude to the people who served in this pu
 | [X](/X)                                                                                  | <img src="../X/X.png" alt="X" width="100" />                                                                                                                                                                                                                                                                                                              |
 
 <!-- image-list: end -->
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=SAWARATSUKI/ServiceLogos&type=Date)](https://star-history.com/#SAWARATSUKI/ServiceLogos&Date)
 
 If there is any inconsistency in the README of each language, the Japanese README will take precedence.

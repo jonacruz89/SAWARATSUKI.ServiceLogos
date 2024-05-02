@@ -4,77 +4,72 @@
 
 # ServiceLogos
 
-你好，亦或是晚上好。
-
-这里是用来管理由さわらつき（SAWARATSUKI）制作的各种徽标（Logo）的仓库。
-
 > [!WARNING]
-> 这里提供的徽标并非官方徽标。
+> Logo yang ada di sini bukanlah logo resmi.
 
-> [!IMPORTANT]
-> 在任何情况下都不允许将此徽标用于 AI 学习。
+> [!Important]
+> Dalam kondisi apa pun, logo-logo tersebut tidak diizinkan untuk digunakan untuk pembelajaran AI.
 
-# 许可证
+# Lisensi
 
-## 想要使用徽标的话，请务必认真阅读本节
+## Jika Anda ingin menggunakan logo, pastikan Anda membaca bagian ini.
 
 > [!NOTE]
 >
-> ### 概述
+> ### Ringkasan:
 >
-> - 只要是非盈利目的就可以自由使用这里的徽标。
->   比如说自己打印成贴纸自用或者是用作编辑器的图标之类的。
-> - 请注明正确的来源！
->   可以适当进行修改，但是新徽标的许可协议要和原来的徽标保持一致。
-> - 如果你使用了这里的徽标来做了一些什么东西的话，能够发推特提及[@さわらつき](https://x.com/sawaratsuki1004)，我会非常兴奋的！
+> - Anda bebas menggunakan logo ini untuk tujuan non-komersial dan nirlaba. Misalnya, Anda dapat mencetaknya sebagai stiker, sebagai ikon untuk editor, dll.
+> - Tolong berikan kredit yang sesuai! Anda bebas untuk memodifikasi atau me-remixnya, namun Anda harus melisensikan karya baru tersebut di bawah lisensi yang sama dengan logo asli ini.
+> - Jika Anda membuat sesuatu dengan menggunakan logo ini, akan sangat memotivasi jika Anda [menyebutkan SAWATSUKI](https://x.com/sawaratsuki1004) dan mempostingnya!
 
-### 细则
+### Semua bagian
 
-**`Commit[c2cf292]` 之后的徽标未获得 CC BY-NC-SA 4.0 许可。**  
-**以下条款适用于提交后的徽标 `Commit[c2cf292]`。**
+**Lisensi CC BY-NC-SA 4.0 tidak diberikan untuk logo setelah ## Commit[c2cf292].**  
+**Untuk logo setelah ## Commit[c2cf292], ketentuan berikut ini berlaku.**
 
-1. 这些徽标的创作者是**さわらつき**。这并不意味着版权已被完全放弃。
-2. 请检查以下事项。
-   > - 推荐注明来源。这会给我动力，所以请尝试一下。
-   > - 可以修改和重新混合。
-   > - 禁止用于商业目的（例如销售标有此徽标的产品等）。 但是，如果符合以下条件，则可以进行销售。
-   >   1. 如果各服务的官方想要将其用于商业目的销售
-   >   2. 如果 さわらつき 允许的话
-   >      （如发现违规行为，请立即联系推特[@さわらつき](https://x.com/sawaratsuki1004)！）
-3. 未经许可，将贴纸、便签等用于个人使用是没有问题的！
+1. Pencipta logo-logo ini adalah SAWATSUKI. Hak cipta belum sepenuhnya dilepaskan.
+2. Pastikan hal-hal berikut ini
+   > - Disarankan agar kredit dinyatakan dengan jelas. Ini adalah alat motivasi, jadi mohon.
+   > - Anda boleh mengubah atau me-remix karya ini.
+   > - Dilarang menggunakan karya untuk tujuan komersial (misalnya menjual produk dengan menggunakan logo). Namun, karya tersebut dapat dijual jika hal-hal berikut ini berlaku.
+   >
+   > 1. Jika petugas dari layanan yang bersangkutan ingin menjual produk untuk tujuan komersial
+   > 2. Jika SAWATSUKI telah memberikan izin  
+   >    (Jika Anda menemukan pelanggaran, segera hubungi [@Sawaratsuki] (https://x.com/sawaratsuki1004)!
+3. Pembuatan stiker dan kaos dapat digunakan tanpa izin dalam lingkup penggunaan pribadi!
 
-# 如果这里没有想要的徽标
+# Saya ingin logo yang tidak ada di sini!
 
-请提交 issues。我确认了之后就会设计制作徽标。
-由于个人时间安排等因素，可能会在几天之后才能对你的请求做出回应。
+Silakan kirimkan di #issues. Kami akan membuatnya segera setelah kami mengonfirmasinya.
+Kami mungkin tidak dapat merespons karena jadwal pribadi. Mungkin perlu waktu beberapa hari.
 
-> [!IMPORTANT]
-> 提交 issues 时请务必带上 request 的标签。
+> [!IMPORTANT]  
+> Saat mengirimkan issues, pastikan untuk menyertakan tag "request".
 
-# 致各服务的官方
+# Untuk pejabat dari layanan yang bersangkutan.
 
-如果想要申请移除徽标，请通过推特[私信联系@さわらつき](https://x.com/sawaratsuki1004)。
-我将立即为您移除。
-如果您想要进行官方的销售，请同样地推特[私信联系@さわらつき](https://x.com/sawaratsuki1004)。
+Jika Anda ingin meminta penghapusan logo, silakan hubungi [saya melalui DM](https://x.com/sawaratsuki1004)  
+Kami akan segera menghapusnya!  
+Jika Anda ingin menjualnya secara resmi, silakan hubungi [saya melalui DM](https://x.com/sawaratsuki1004) juga!
 
-# 设计工具
+# Alat yang digunakan untuk mendesain
 
 - Photoshop / Illustrator
-- 字体：【ユールカフォント】
-- さわらつき的创作热情
-- 大家的反馈帖子
+- Font [Font Eureka].
+- Motivasi dan perasaan Sawaratsuki
+- Kiriman umpan balik Anda.
 
-# 致谢
+# Ucapan terima kasih
 
-这些徽标是衍生作品。  
-没有什么比官方原生徽标更好的了。  
-我在此对在此公开仓库中出力的各方表示最诚挚的感谢。
+Logo-logo ini adalah karya turunan.  
+Mereka tidak lebih baik dari logo yang digunakan oleh masing-masing layanan resmi.  
+Saya ingin mengucapkan terima kasih yang sebesar-besarnya kepada orang-orang yang telah membantu publikasi ini.
 
-# 图片列表
+# List gambar
 
 <!-- image-list: start -->
 
-| 名称                                                                                     | 图片                                                                                                                                                                                                                                                                                                                                                      |
+| Name                                                                                     | Image                                                                                                                                                                                                                                                                                                                                                     |
 | ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [403Forbidden](/403Forbidden)                                                            | <img src="../403Forbidden/Forbidden.png" alt="Forbidden" width="100" />                                                                                                                                                                                                                                                                                   |
 | [404Notfound](/404Notfound)                                                              | <img src="../404Notfound/NotFound.png" alt="NotFound" width="100" />                                                                                                                                                                                                                                                                                      |
@@ -152,8 +147,4 @@
 
 <!-- image-list: end -->
 
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=SAWARATSUKI/ServiceLogos&type=Date)](https://star-history.com/#SAWARATSUKI/ServiceLogos&Date)
-
-如果各语言的 README 不一致，则以日语 README 为准。
+Jika terdapat ketidakkonsistenan dalam README masing-masing bahasa, maka README bahasa Jepang yang akan diutamakan.

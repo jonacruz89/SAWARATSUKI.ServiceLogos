@@ -3,10 +3,8 @@ name = "ServiceLogos"
 version = "0"
 description = ""
 authors = []
-dependencies = ["pathspec>=0.12.1"]
-requires-python = ">=3.10"
+dependencies = ["githubkit>=0.11.4", "pathspec>=0.12.1"]
 readme = "docs/README.md"
-license = { text = "CC BY-NC-SA 4.0" }
 
 [tool.pdm]
 distribution = false
@@ -16,6 +14,7 @@ dev = ["ruff>=0.4.2", "basedpyright>=1.10.4"]
 
 [tool.pdm.scripts]
 generate = "python3 docs/scripts/generate-images-table.py"
+release = "python3 docs/scripts/generate-changelog.py"
 
 [tool.basedpyright]
 pythonVersion = "3.10"
