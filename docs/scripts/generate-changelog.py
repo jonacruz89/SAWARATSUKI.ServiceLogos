@@ -37,7 +37,7 @@ gh_output_path = os.environ["GITHUB_OUTPUT"]
 
 def set_output(key: str, value: str):
     delimiter = f"ghadelimiter_{uuid4()}"
-    string = f"{key}<<{delimiter}{os.linesep}{value}{os.linesep}{delimiter}"
+    string = f"{key}<<{delimiter}{os.linesep}{value}{os.linesep}{delimiter}{os.linesep}"
     with open(gh_output_path, "a", encoding="u8") as f:  # noqa: PTH123
         f.write(string)
 
