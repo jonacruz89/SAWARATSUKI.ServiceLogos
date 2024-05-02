@@ -47,8 +47,10 @@ def decode(s: bytes) -> str:
 def run(cmd: list[str]) -> str:
     proc = Popen(cmd, stdin=DEVNULL, stdout=PIPE, stderr=PIPE)  # noqa: S603
     code = proc.wait()
-    stdout, stderr = proc.communicate()
+    stdout_b, stderr_b = proc.communicate()
+    stdout = decode(stdout_b)
     if code:
+        stderr = decode(stderr_b)
         raise RuntimeError(
             f"Command {cmd} failed with code {code}\n"
             f"Err:\n"
@@ -56,7 +58,7 @@ def run(cmd: list[str]) -> str:
             f"Out:\n"
             f"{stdout.rstrip()}",
         )
-    return decode(stdout).strip()
+    return stdout.strip()
 
 
 def main():
