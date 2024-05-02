@@ -7,7 +7,7 @@ if os.getenv("GITHUB_ACTIONS") != "true":
 # ------
 
 import locale
-from subprocess import PIPE, Popen
+from subprocess import DEVNULL, PIPE, Popen
 from typing import cast
 
 from githubkit import GitHub
@@ -45,11 +45,17 @@ def decode(s: bytes) -> str:
 
 
 def run(cmd: list[str]) -> str:
-    proc = Popen(cmd, stdout=PIPE)  # noqa: S603
+    proc = Popen(cmd, stdin=DEVNULL, stdout=PIPE, stderr=PIPE)  # noqa: S603
     code = proc.wait()
     stdout, stderr = proc.communicate()
     if code:
-        raise RuntimeError(f"Command {cmd} failed with code {code}\n{stderr}")
+        raise RuntimeError(
+            f"Command {cmd} failed with code {code}\n"
+            f"Err:\n"
+            f"{stderr.rstrip()}\n"
+            f"Out:\n"
+            f"{stdout.rstrip()}",
+        )
     return decode(stdout).strip()
 
 
