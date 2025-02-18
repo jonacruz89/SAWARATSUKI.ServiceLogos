@@ -1,0 +1,39 @@
+name: Auto Release
+
+permissions:
+  contents: write
+
+on:
+  push:
+    paths:
+      - "**.png"
+  workflow_dispatch:
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          submodules: true
+
+      - uses: pdm-project/setup-pdm@v3
+        with:
+          cache: true
+
+      - name: Generate Changelog
+        id: generate-changelog
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |-
+          pdm install
+          pdm run release
+
+      - if: ${{ steps.generate-changelog.outputs.should_run }}
+        uses: softprops/action-gh-release@v2
+        with:
+          target_commitish: ${{ github.sha }}
+          name: ${{ steps.generate-changelog.outputs.name }}
+          tag_name: ${{ steps.generate-changelog.outputs.tag_name }}
+          body: ${{ steps.generate-changelog.outputs.body }}

@@ -1,0 +1,47 @@
+name: リクエスト
+description: ロゴの追加依頼
+title: "[Request] "
+labels: ["request", "enhancement"]
+assignees:
+  - SAWARATSUKI
+body:
+  - type: markdown
+    attributes:
+      value: |
+        issuesに投稿してください。確認次第作成します。
+        個人のスケジュールにより対応できない場合もあります。数日かかる場合もあります。
+
+  - type: checkboxes
+    id: duplicate-check
+    attributes:
+      label: 重複チェック
+      description: 他のIssueと内容が重複していないことを確認してください。
+      options:
+        - label: 確認しました
+          required: true
+
+  - type: input
+    id: service-name
+    attributes:
+      label: サービス名
+      description: 追加を希望するサービスの名称
+      placeholder: 例) GitHub
+    validations:
+      required: true
+
+  - type: input
+    id: service-name-ja
+    attributes:
+      label: サービス名の日本語での読み方
+      description: 追加を希望するサービスの日本語での読み方
+      placeholder: 例) ギットハブ
+    validations:
+      required: true
+
+  - type: textarea
+    id: comment
+    attributes:
+      label: コメント・補足
+      description: 画像がある場合はこちらに添付してください
+    validations:
+      required: false

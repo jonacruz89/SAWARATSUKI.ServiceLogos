@@ -1,0 +1,48 @@
+name: Modification
+description: Request a logo modification.
+title: "[Fix] "
+labels: ["fix"]
+assignees:
+  - SAWARATSUKI
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please post it in the issues. We'll create it once confirmed.
+        Depending on individual schedules, we may not be able to respond immediately. It may take several days.
+        Logo will be handled only for correction of typographical errors and other mistakes. Logo design changes will not be handled.
+
+  - type: checkboxes
+    id: duplicate-check
+    attributes:
+      label: Check for duplicates
+      description: Check that the Issue has not been duplicated.
+      options:
+        - label: Checked
+          required: true
+
+  - type: input
+    id: service-name
+    attributes:
+      label: Service Name
+      description: Name of the service for which you are requesting a change.
+      placeholder: ex. GitHub
+    validations:
+      required: true
+
+  - type: input
+    id: revision-detail
+    attributes:
+      label: Description of modifications
+      description: Please describe the modification in detail
+      placeholder: ex. Corrected Japanese spelling of Github from "ぎっとはぶ" to "ギットハブ.
+    validations:
+      required: true
+
+  - type: textarea
+    id: comment
+    attributes:
+      label: Comment
+      description: If you have a basis for modification, please describe it here.
+    validations:
+      required: false
